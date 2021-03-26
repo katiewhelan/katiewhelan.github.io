@@ -1,0 +1,82 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+DefaultContentLanguage = "en-us"
+title = "Kathryn Whelan"
+theme = "anatole"
+summarylength = 15
+enableEmoji = true
+enableRobotsTXT = true
+
+
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[params]
+title = "Kathryn Whelan"
+author = "Kathryn Whelan"
+#copyright = "2020-2021"
+description = """
+Software Engineer
+Looking For Mobile Development Opportunities
+"""
+profilePicture = "images/profile.jpg"
+keywords = ""
+favicon = "favicons/"
+# example ["css/custom.css"]
+customCss = []
+# example ["js/custom.js"]
+customJs = []
+# mainSections = ["post"]
+images = ["images/site-feature-image.png"]
+doNotLoadAnimations = false
+displayMode = "dark"
+disableThemeSwitcher = true
+
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/kathrynlwhelan/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/katiewhelan"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:klwhelan@gmail.com"
+
+[menu]
+
+  [[menu.main]]
+  name = "About"
+  weight = 100
+  identifier = "about"
+  url = "/about/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/"
+
+  [[menu.main]]
+  name = "Contact"
+  weight = 500
+  identifier = "contact"
+  url = "/contact/"
+
+  [[menu.main]]
+  name = "Resume"
+  weight = 400
+  identifier = "resume"
+  url = "/resume/"
+
+  [[menu.main]]
+  name = "Project"
+  weight = 300
+  identifier = "project"
+  url = "/project/"

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kathryn Whelan</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Kathryn Whelan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Mar 2021 19:39:14 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Courses</title>
+      <link>http://example.org/posts/courses/</link>
+      <pubDate>Wed, 24 Mar 2021 19:39:14 -0500</pubDate>
+      
+      <guid>http://example.org/posts/courses/</guid>
+      <description>HERE IS SOME TEXT</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kathryn Whelan</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Education University of Minnesota May 2021 Masters of Software Engineering Prime Digital Academy October 2015 North Dakota State University December 2012 Bachelor of Science Degree - Industrial Engineering Experience C.</description>
+    </item>
+    
+  </channel>
+</rss>
