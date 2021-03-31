@@ -50,14 +50,6 @@ author = "Kathryn Whelan"
 
             <dd class="clear"></dd>
 
-            <!-- <dt>Skills</dt>
-            <dd>
-                <h4>Computer Skills</h4>
-                <p>LSIT SKILLS HERE</p>
-            </dd>
-
-            <dd class="clear"></dd> -->
-
             <dt>Experience</dt>
             <dd>
                 <h2>C.H. Robinson</h2>
@@ -92,15 +84,17 @@ author = "Kathryn Whelan"
 
             <dt>Activities</dt>
             <dd>
-            <ul>
+
             <h2>Hack the Gap</h2>
             <h2><span>Participant 2016, 2017, 2018</span></h2>
+            <ul>
                 <li>2017 awarded second place of thirteen teams</li>
                 <li>Created a working POC for a mouthguard to track head injuries (2017)</li>
                 <li>Created a medication tracker to help families provide care for their loved ones (2018)</li>
             </ul>
             <h2>Technovation</h2>
             <h2><span>Mentor 2017</span></h2>
+            <ul>
                 <li>Provide guidance and mentorship to 5th/6th grade girls in an after school technology program</li>
                 <li>Teach computational thinking, app design, and basic programming skills</li>
                 <li>Provide feedback to teams on final product, including pitch and demo videos, presentation slides and live pitch performance</li>

@@ -27,12 +27,12 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = []
-# mainSections = ["post"]
+mainSections = []
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 displayMode = "dark"
-disableThemeSwitcher = true
-
+disableThemeSwitcher = false
+postSectionName = "blog"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -55,28 +55,34 @@ url = "mailto:klwhelan@gmail.com"
   name = "About"
   weight = 100
   identifier = "about"
-  url = "/about/"
-
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
   url = "/"
 
   [[menu.main]]
-  name = "Contact"
-  weight = 500
-  identifier = "contact"
-  url = "/contact/"
+  name = "Project"
+  weight = 200
+  identifier = "project"
+  url = "/project/"
+
+  [[menu.main]]
+  name = "Blog"
+  weight = 300
+  identifier = "posts"
+  url = "/blog/"
+
+  [[menu.main]]
+  name = "What's Next"
+  weight = 400
+  identifier = "next"
+  url = "/next/"
 
   [[menu.main]]
   name = "Resume"
-  weight = 400
+  weight = 500
   identifier = "resume"
   url = "/resume/"
 
   [[menu.main]]
-  name = "Project"
-  weight = 300
-  identifier = "project"
-  url = "/project/"
+  name = "Contact"
+  weight = 600
+  identifier = "contact"
+  url = "/contact/"
