@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Kathryn Whelan"
 +++
 
 <!--
@@ -22,3 +22,14 @@ Don't forget to check the README.md file!
 ```
 
 -->
+Ideas
+
+- Tips/Tricks learned
+- Algolia
+- Firebase/Firestore
+- Cloud functions
+- Node --> Upload data
+- Swift Package Manager
+- Cocoa Pods
+- Design/ Reuse of code
+- Tutorials used --> Android/ IOS
