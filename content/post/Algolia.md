@@ -11,6 +11,8 @@ What it added
   -Sorting
 
 How it went adding / using
+-- https://www.algolia.com/doc/api-reference/api-methods/search/
+Breaking down the example movie app --> add link
 
 Uploading data
 

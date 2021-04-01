@@ -22,14 +22,16 @@ Don't forget to check the README.md file!
 ```
 
 -->
-Ideas
+#### Hello!
 
-- Tips/Tricks learned
-- Algolia
-- Firebase/Firestore
-- Cloud functions
-- Node --> Upload data
-- Swift Package Manager
-- Cocoa Pods
-- Design/ Reuse of code
-- Tutorials used --> Android/ IOS
+I am currently completing the MSSE <ADD LINK HERE> Program at the University of Minnesota.  As part of my final semester I am completing an independent study in mobile development. After finishing my degree my plan is to transfer from c#.net to mobile development.  
+
+Through the course of this program I have learned about so m
+
+Why mobile
+-- way of the future
+-- how much often phones are Used
+-- want to have input in user interaction/design
+
+
+Spare Time --> About me ? ¯\_(ツ)_/¯

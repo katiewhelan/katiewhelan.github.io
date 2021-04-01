@@ -3,7 +3,7 @@ languageCode = "en-us"
 DefaultContentLanguage = "en-us"
 title = "Kathryn Whelan"
 theme = "anatole"
-summarylength = 15
+summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
@@ -33,6 +33,8 @@ doNotLoadAnimations = false
 displayMode = "dark"
 disableThemeSwitcher = false
 postSectionName = "blog"
+# Form Spree Contact Form
+#contactFormAction = "https://formspree.io/f/your-form-hash-here"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
