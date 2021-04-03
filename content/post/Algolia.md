@@ -25,3 +25,6 @@ Why I removed
 
 What I chose instead
 -- core data
+
+//This could be a 2nd post about updating
+https://rsfarias.medium.com/how-to-set-up-firestore-and-algolia-319fcf2c0d37

@@ -9,6 +9,8 @@ draft: false
 
 -My work --> Link to git
 
+Show some screen Shots 
+
 https://github.com/katiewhelan/Kotlin
 
 https://www.udemy.com/course/android-kotlin-developer/
