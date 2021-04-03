@@ -82,9 +82,3 @@ url = "mailto:klwhelan@gmail.com"
   weight = 500
   identifier = "resume"
   url = "/resume/"
-
-  [[menu.main]]
-  name = "Contact"
-  weight = 600
-  identifier = "contact"
-  url = "/contact/"
