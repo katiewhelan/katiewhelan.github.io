@@ -1,7 +1,7 @@
 ---
 title: "Kotlin"
 date: 2020-12-27T00:00:00-00:00
-draft: false
+draft: true
 
 ---
 
@@ -9,7 +9,7 @@ draft: false
 
 -My work --> Link to git
 
-Show some screen Shots 
+Show some screen Shots
 
 https://github.com/katiewhelan/Kotlin
 

@@ -1,7 +1,7 @@
 ---
 title: "Firebase Data Upload"
 date: 2021-03-20T20:03:58-05:00
-draft: false
+draft: true
 ---
 https://www.youtube.com/watch?v=Qg2_VFFcAI8
 https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5
