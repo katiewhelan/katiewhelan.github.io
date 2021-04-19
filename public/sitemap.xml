@@ -1,47 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2021-03-24T19:39:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/courses/</loc>
-    <lastmod>2021-03-24T19:39:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2021-03-24T19:39:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/contact/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/about/</loc>
+    <lastmod>2021-04-01T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/core-data/</loc>
+    <lastmod>2021-04-01T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2021-04-01T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/code-resuse/</loc>
+    <lastmod>2021-03-29T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/tabbar/</loc>
+    <lastmod>2021-03-28T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/docker_gke_azure_aws/</loc>
+    <lastmod>2021-03-27T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/hugo/</loc>
+    <lastmod>2021-03-26T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/ci%5Ccd-with-github/</loc>
+    <lastmod>2021-03-25T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/scroll-view/</loc>
+    <lastmod>2021-03-23T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/firbase-data-upload/</loc>
+    <lastmod>2021-03-20T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/cloud-functions/</loc>
+    <lastmod>2021-03-05T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/forms-with-stack-view/</loc>
+    <lastmod>2021-03-04T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/custom-alert/</loc>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/algolia/</loc>
+    <lastmod>2021-02-26T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/package-managers/</loc>
+    <lastmod>2021-02-23T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/firebase/</loc>
+    <lastmod>2021-02-21T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/swiftui/</loc>
+    <lastmod>2021-02-18T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/design-tools/</loc>
+    <lastmod>2021-02-15T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/xcode/</loc>
+    <lastmod>2021-02-13T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/swift/</loc>
+    <lastmod>2021-02-12T19:39:14-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/kotlin/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/next/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://example.org/project/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/resume/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://example.org/tags/index/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://example.org/tags/</loc>
   </url>
-  
 </urlset>

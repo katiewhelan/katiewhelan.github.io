@@ -10,28 +10,21 @@ This can be:
 - with the list of posts/articles (default: `mainSections = ["post"]) or
 - without the list of posts/articles (by setting `mainSections = [""]`)
 
-Markdown supported, ie:
-
-```
-# Welcome
-
-- Hugo :rocket:
-- Hugo theme :rocket:
-
-Don't forget to check the README.md file!
-```
 
 -->
-#### Hello!
 
-I am currently completing the MSSE <ADD LINK HERE> Program at the University of Minnesota.  As part of my final semester I am completing an independent study in mobile development. After finishing my degree my plan is to transfer from c#.net to mobile development.  
+{{< rawhtml >}}
+<br />
+{{< /rawhtml >}}
+# Hello!
+******
+{{< rawhtml >}}
+<img src="images/Spock.gif">
+{{< /rawhtml >}}
 
-Through the course of this program I have learned about so m
+I am currently completing the [MSSE Program](https://cse.umn.edu/msse) at the University of Minnesota.  As part of my final semester I am completing an independent study in mobile development.
 
-Why mobile
--- way of the future
--- how much often phones are Used
--- want to have input in user interaction/design
-
-
-Spare Time --> About me ? ¯\_(ツ)_/¯
+Why Switch To Mobile
++ way of the future
++ how much often phones are Used
++ want to have input in user interaction/design

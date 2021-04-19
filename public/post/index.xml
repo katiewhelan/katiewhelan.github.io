@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kathryn Whelan</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Kathryn Whelan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Apr 2021 20:03:58 -0500</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Core Data</title>
+      <link>http://example.org/post/core-data/</link>
+      <pubDate>Thu, 01 Apr 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/core-data/</guid>
+      <description>https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial
+Why I did not use core data for this project</description>
+    </item>
+    
+    <item>
+      <title>Code Reuse</title>
+      <link>http://example.org/post/code-resuse/</link>
+      <pubDate>Mon, 29 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/code-resuse/</guid>
+      <description>&amp;ndash; What I ran into for this project, the different search sites</description>
+    </item>
+    
+    <item>
+      <title>TabBar</title>
+      <link>http://example.org/post/tabbar/</link>
+      <pubDate>Sun, 28 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/tabbar/</guid>
+      <description>https://www.youtube.com/watch?v=Nx3qPQ_qOFM
+documentation does not make it clear that you must start with tab controller</description>
+    </item>
+    
+    <item>
+      <title>Docker/GKE/Azure/AWS</title>
+      <link>http://example.org/post/docker_gke_azure_aws/</link>
+      <pubDate>Sat, 27 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/docker_gke_azure_aws/</guid>
+      <description>https://docs.docker.com/cloud/aci-integration/
+https://docs.docker.com/cloud/ecs-integration/
+https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://example.org/post/hugo/</link>
+      <pubDate>Fri, 26 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/hugo/</guid>
+      <description>&amp;ndash; Markdown &amp;ndash; vidoes on understanding structure &amp;ndash;shortcodes &amp;ndash; getting html into markdown</description>
+    </item>
+    
+    <item>
+      <title>CI/CD with Github</title>
+      <link>http://example.org/post/ci%5Ccd-with-github/</link>
+      <pubDate>Thu, 25 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/ci%5Ccd-with-github/</guid>
+      <description>Future &amp;ndash; Set up this site to push updates when edited</description>
+    </item>
+    
+    <item>
+      <title>Scroll View</title>
+      <link>http://example.org/post/scroll-view/</link>
+      <pubDate>Tue, 23 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/scroll-view/</guid>
+      <description>https://fluffy.es/scrollview-storyboard-xcode-11/
+Screen shot the image about align Leading setting multiplier to 1</description>
+    </item>
+    
+    <item>
+      <title>Firebase Data Upload</title>
+      <link>http://example.org/post/firbase-data-upload/</link>
+      <pubDate>Sat, 20 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/firbase-data-upload/</guid>
+      <description>https://www.youtube.com/watch?v=Qg2_VFFcAI8 https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5 link to json uploader &amp;ndash;&amp;gt; Make private file for personal records that are git ignored Tips node uploader.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Functions</title>
+      <link>http://example.org/post/cloud-functions/</link>
+      <pubDate>Fri, 05 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/cloud-functions/</guid>
+      <description>https://www.youtube.com/watch?v=3Z0V3cvgns8
+firebase init Functions npm install algoliasearch firebase functions:config:set algolia.</description>
+    </item>
+    
+    <item>
+      <title>Forms with Stack View</title>
+      <link>http://example.org/post/forms-with-stack-view/</link>
+      <pubDate>Thu, 04 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/forms-with-stack-view/</guid>
+      <description>https://www.youtube.com/watch?time_continue=18&amp;amp;v=-haK6v6YiU8&amp;amp;feature=emb_logo</description>
+    </item>
+    
+    <item>
+      <title>Custom Alert</title>
+      <link>http://example.org/post/custom-alert/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/custom-alert/</guid>
+      <description>https://www.youtube.com/watch?v=NP7H_LjTZGw</description>
+    </item>
+    
+    <item>
+      <title>Algolia</title>
+      <link>http://example.org/post/algolia/</link>
+      <pubDate>Fri, 26 Feb 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/algolia/</guid>
+      <description>Why &amp;ndash; Firebase could only search on first word</description>
+    </item>
+    
+    <item>
+      <title>Package Managers</title>
+      <link>http://example.org/post/package-managers/</link>
+      <pubDate>Tue, 23 Feb 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/package-managers/</guid>
+      <description>  Cocoa Pods Swift Package Manager </description>
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>http://example.org/post/firebase/</link>
+      <pubDate>Sun, 21 Feb 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/firebase/</guid>
+      <description>  &amp;ndash; Why &amp;ndash; Pros
+ Easy to set up Quick integration into the project &amp;ndash; Cons Lack of sorting/ filtering when searching for specific text  </description>
+    </item>
+    
+    <item>
+      <title>SwiftUI</title>
+      <link>http://example.org/post/swiftui/</link>
+      <pubDate>Thu, 18 Feb 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/swiftui/</guid>
+      <description>Add screen shot from project Link directly to the UISwift Project on github</description>
+    </item>
+    
+    <item>
+      <title>Design Tools</title>
+      <link>http://example.org/post/design-tools/</link>
+      <pubDate>Mon, 15 Feb 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/design-tools/</guid>
+      <description>https://colorhunt.co/
+https://appicon.co/#image-sets</description>
+    </item>
+    
+    <item>
+      <title>Xcode</title>
+      <link>http://example.org/post/xcode/</link>
+      <pubDate>Sat, 13 Feb 2021 20:03:58 -0500</pubDate>
+      
+      <guid>http://example.org/post/xcode/</guid>
+      <description>Tips/ Tricks / Useful getting started notes</description>
+    </item>
+    
+    <item>
+      <title>Swift</title>
+      <link>http://example.org/post/swift/</link>
+      <pubDate>Fri, 12 Feb 2021 19:39:14 -0500</pubDate>
+      
+      <guid>http://example.org/post/swift/</guid>
+      <description>IOS &amp;amp; Swift - The Complete IOS App Development Bootcamp -My Work &amp;ndash; Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Kotlin</title>
+      <link>http://example.org/post/kotlin/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/kotlin/</guid>
+      <description>The Complete Android 10 &amp;amp; Development Masterclass Hell0</description>
+    </item>
+    
+  </channel>
+</rss>

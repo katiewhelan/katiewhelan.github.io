@@ -4,7 +4,11 @@ date: 2021-02-26T20:03:58-05:00
 draft: true
 ---
 
+{{< rawhtml >}}
+<br />
+{{< /rawhtml >}}
 
+***
 Why -- Firebase could only search on first word
 
 What it added
