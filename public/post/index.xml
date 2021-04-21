@@ -91,7 +91,7 @@ Screen shot the image about align Leading setting multiplier to 1</description>
       
       <guid>http://example.org/post/cloud-functions/</guid>
       <description>https://www.youtube.com/watch?v=3Z0V3cvgns8
-firebase init Functions npm install algoliasearch firebase functions:config:set algolia.</description>
+  firebase init Functions npm install algoliasearch firebase functions:config:set algolia.</description>
     </item>
     
     <item>
@@ -100,7 +100,8 @@ firebase init Functions npm install algoliasearch firebase functions:config:set 
       <pubDate>Thu, 04 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>http://example.org/post/forms-with-stack-view/</guid>
-      <description>https://www.youtube.com/watch?time_continue=18&amp;amp;v=-haK6v6YiU8&amp;amp;feature=emb_logo</description>
+      <description>  https://www.youtube.com/watch?v=-haK6v6YiU8
+  </description>
     </item>
     
     <item>
@@ -183,7 +184,7 @@ https://appicon.co/#image-sets</description>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/post/kotlin/</guid>
-      <description>The Complete Android 10 &amp;amp; Development Masterclass Hell0</description>
+      <description>The Complete Android 10 &amp;amp; Development Masterclass Check out Github to see my completed work for the course</description>
     </item>
     
   </channel>

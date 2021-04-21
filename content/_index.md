@@ -17,10 +17,7 @@ This can be:
 <br />
 {{< /rawhtml >}}
 # Hello!
-******
-{{< rawhtml >}}
-<img src="images/Spock.gif">
-{{< /rawhtml >}}
+***
 
 I am currently completing the [MSSE Program](https://cse.umn.edu/msse) at the University of Minnesota.  As part of my final semester I am completing an independent study in mobile development.
 

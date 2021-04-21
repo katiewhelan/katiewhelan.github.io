@@ -9,5 +9,16 @@ draft: true
 {{< /rawhtml >}}
 
 ***
-Add screen shot from project
-Link directly to the UISwift Project on github
+
+{{< rawhtml >}}
+<style>
+img {
+  border-radius: 12%;
+  margin: 20px 20px 10px 50px;
+}
+</style>
+
+<a  href="https://github.com/katiewhelan/Swift/tree/RealmInsteadofCoreData/SwiftUI/BusinessCard">Github</a>
+<br/>
+<img src="/images/swift/SwiftUI.png" width ="175" height="355">
+{{< /rawhtml >}}

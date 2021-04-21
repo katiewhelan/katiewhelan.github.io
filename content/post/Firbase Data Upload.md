@@ -8,6 +8,13 @@ draft: true
 {{< /rawhtml >}}
 
 ***
+
+https://github.com/katiewhelan/firebaseUploader
+
+One of the key companents of my application is the data.  
+
+
+
 https://www.youtube.com/watch?v=Qg2_VFFcAI8
 https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5
 link to json uploader --> Make private file for personal records that are git ignored

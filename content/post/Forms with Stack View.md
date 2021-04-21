@@ -8,6 +8,6 @@ draft: true
 {{< /rawhtml >}}
 
 ***
-https://www.youtube.com/watch?v=-haK6v6YiU8
+
 
 {{< youtube -haK6v6YiU8 >}}
