@@ -22,8 +22,17 @@ img.gifImage{
   width: 170px;
   height = 355px;
 }
+img.centergif {
+  display: block;
+  border-radius: 10%;
+  width: 170px;
+  height : 345px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
 </style>
-<p>This course started out with the recreation of the <a href="https://en.wikipedia.org/wiki/I_Am_Rich">"I am Rich"</a> App, at text adventure, tip calculator, weather application, and a To Do List </p>
+<p>This course started out with the recreation of the <a href="https://en.wikipedia.org/wiki/I_Am_Rich">"I am Rich"</a> App, a text adventure app, a tip calculator, a weather application, a To Do List and many more. </p>
 
 
 
@@ -31,6 +40,13 @@ img.gifImage{
 
 <!-- https://www.appbrewery.co/p/ios12-course-resources/ -->
 
-<img src="/images/swift/Climate4.gif" class="gifImage" alt="Climate App"/>
-<img src="/images/swift/Tip.gif" class="gifImage" alt"Tip App">
+<h3>Weather App</h3>
+<p>Allow and use location services to get current weather, or search weather by city</p>
+<img src="/images/swift/Climate4.gif" class="centergif" alt="Climate App"/>
+<h3>Tip Calculator</h3>
+<p>Easly split the total bill with tip included</p>
+<img src="/images/swift/Tip.gif" class="centergif" alt"Tip App">
+<h3>Choose Your Adventure</h3>
+<p>Classic text adventure App</p>
+<img src="/images/swift/Adventure.gif" alt="Choose your own adventure app" class="centergif">
 {{< /rawhtml >}}

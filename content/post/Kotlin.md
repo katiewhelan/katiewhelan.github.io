@@ -20,7 +20,15 @@ img.gifImage {
   border-radius: 10%;
   margin: 20px 20px 10px 30px;
   width: 170px;
-  height = 355px;
+  height: 355px;
+}
+img.centergif {
+  border-radius: 10%;
+  width: 170px;
+  height: 345px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
 <p>This course had a great range of projects starting with the classic Hello World to a fully functioning "Trello" application.  Below are some screen shots of the working apps that I created. </p>
@@ -32,9 +40,9 @@ img.gifImage {
 <img src="/images/kotlin/Trello2.gif" class="gifImage" alt="Trelllo App Gif 3"/>
 <img src="/images/kotlin/Trello5.gif" class="gifImage" alt="Trelllo App Gif 2"/>
 <h3>7 Minute Workout App </h3>
-<p>Count down timer for each exercise, with rest timer in between, a BMI calculator for both metric and standard units.</p>
-<img src="/images/kotlin/7Minute.gif" class="gifImage" alt="7 minute Workout App Gif"/>
+<p>Count down timer for each exercise and rest in between, a BMI calculator in metric and standard</p>
+<img src="/images/kotlin/7Minute.gif" class="centergif" alt="7 minute Workout App Gif"/>
 <h3>Paint Application</h3>
 <p>Recreation of "Paint" that allows the user to draw and save the picture as an image.</P>
-<img src="/images/kotlin/Draw.gif" class="gifImage" class="gifImage" alt="Paint App Gif"/>
+<img src="/images/kotlin/Draw.gif" class="centergif" alt="Paint App Gif"/>
 {{< /rawhtml >}}
