@@ -8,6 +8,10 @@ draft: true
 {{< /rawhtml >}}
 
 ***
+{{< rawhtml >}}
+Add a screen shot of the scrolling functionality
+
 https://fluffy.es/scrollview-storyboard-xcode-11/
 
 Screen shot the image about align Leading setting multiplier to 1
+{{< /rawhtml >}}

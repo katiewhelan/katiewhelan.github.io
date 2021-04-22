@@ -17,7 +17,7 @@ To get exposure to Kotlin and Swift I completed two different tutorials through 
 After completing the courses in Kotlin and Swift I developed my own app that allows the user to track collections of objects. I have used different apps like IMDB or GoodReads to track movies and books but wanted a singular location where I could access and track multiple types of data.
 
 _Top 3 Lessons_
-- 1.
+- 1. Commit, Commit, Commit
 - 2.
 - 3.
 

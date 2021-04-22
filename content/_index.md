@@ -19,7 +19,7 @@ This can be:
 # Hello!
 ***
 
-I am currently completing the [MSSE Program](https://cse.umn.edu/msse) at the University of Minnesota.  As part of my final semester I am completing an independent study in mobile development.
+As I wrap up the [MSSE Program](https://cse.umn.edu/msse) at the University of Minnesota I am looking to make the move to mobile development. 
 
 Why Switch To Mobile
 + way of the future
