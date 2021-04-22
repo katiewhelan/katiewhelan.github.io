@@ -1,6 +1,6 @@
 ---
-title: "Firebase Data Upload"
 date: 2021-03-20T20:03:58-05:00
+title: "Firebase - Data Upload"
 draft: true
 ---
 {{< rawhtml >}}
@@ -10,12 +10,12 @@ draft: true
 ***
 {{< rawhtml >}}
 
-Uploader on <a href="https://github.com/katiewhelan/firebaseUploader
-">Github</a>
+Uploader on <a href="https://github.com/katiewhelan/firebaseUploader">Github</a>
 <br/>
+
+<p>One of the key components of my application is the ability to search collections of items. My application has the ability to add data directly however I did not wish to do this for every single item. I found a couple of tutorials on how to upload data from csv files to firebase that were extremely useful.  
 <br/>
-One of the key companents of my application is the data.  
-Steps
+
 create excel, with id column of objectId (make sure spelling matches in uploader.js file exactly)
 empty rows will cause an errors
 export excel to csv and than convert to JSON
@@ -24,28 +24,22 @@ node uploader.js --> to run
 
 -- remove lists that you have already uploaded from the "files" folder
 
--- if you run into errors running the uploader delete .DS_store file in the "files folder"
-<img src="/images/jsonUploder.png">
---SyntaxError: Invalid or unexpected token
-    at Object.compileFunction (node:vm:355:18)
-    at wrapSafe (node:internal/modules/cjs/loader:1022:15)
-    at Module._compile (node:internal/modules/cjs/loader:1056:27)
-    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1121:10)
-    at Module.load (node:internal/modules/cjs/loader:972:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
-    at Module.require (node:internal/modules/cjs/loader:996:19)
-    at require (node:internal/modules/cjs/helpers:92:18)
-    at /Users/littlewhelan/Documents/Code/JSON/uploader.js:22:16
-    at Array.forEach (<anonymous>)
+-- if you run into errors running the uploader delete .DS_store file in the "files folder" </p>
+<br/>
+<img src="/images/jsonUploader.png">
+<br/>
+
 
 
 <br/>
 <br />
 
-<!-- https://www.youtube.com/watch?v=Qg2_VFFcAI8 -->
+
 
 <a href="https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5">Medium - How to Upload Data to Firebase</a>
-
+<br/>
+<br/>
+<!-- https://www.youtube.com/watch?v=Qg2_VFFcAI8 -->
 <iframe width="350" height="200" src="https://www.youtube.com/embed/Qg2_VFFcAI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

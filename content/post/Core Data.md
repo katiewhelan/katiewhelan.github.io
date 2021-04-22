@@ -11,15 +11,17 @@ draft: true
 {{< rawhtml >}}
 <style>
 img {
-  border-radius: 12%:
+  border-radius: 12%;
+  margin-left: 150px;
 }
 </style>
+<p></p>
+<br/>
 
 <img src="/images/swift/ToDo.gif" width="175" height="355">
 
-Screen shots of Todo app
-link to tutorial and github
+
 <!-- https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial -->
 
-Why I did not use core data for this project
+
 {{< /rawhtml >}}
