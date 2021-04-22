@@ -20,7 +20,7 @@ img.gifImage{
   border-radius: 10%;
   margin: 20px 20px 10px 30px;
   width: 170px;
-  height = 355px;
+  height : 345px;
 }
 img.centergif {
   display: block;

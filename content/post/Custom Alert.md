@@ -1,7 +1,7 @@
 ---
 title: "Custom Alert"
 date: 2021-03-02T00:00:00-00:00
-draft: true
+draft: false
 ---
 {{< rawhtml >}}
 <br />
