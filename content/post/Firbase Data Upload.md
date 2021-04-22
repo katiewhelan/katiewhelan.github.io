@@ -9,6 +9,11 @@ draft: true
 
 ***
 {{< rawhtml >}}
+<style>
+li.addHeight {
+  margin-bottom: 10px;
+}
+</style>
 
 Uploader on <a href="https://github.com/katiewhelan/firebaseUploader">Github</a>
 <br/>
@@ -16,31 +21,45 @@ Uploader on <a href="https://github.com/katiewhelan/firebaseUploader">Github</a>
 <p>One of the key components of my application is the ability to search collections of items. My application has the ability to add data directly however I did not wish to do this for every single item. I found a couple of tutorials on how to upload data from csv files to firebase that were extremely useful.  
 <br/>
 
-create excel, with id column of objectId (make sure spelling matches in uploader.js file exactly)
-empty rows will cause an errors
-export excel to csv and than convert to JSON
 
-node uploader.js --> to run
+<h4>Step 1 - Gather your Data</h4>
+<li class="addHeight">Create an excel spread sheet with the first column named "objectId"</li>
+<li class="addHeight">Make sure this matches the name in the uploader.js exactly/li>
+<li class="addHeight">Empty rows will cause errors as will empty objefctId fields being empty</li>
+<li class="addHeight">Export your spreadsheet to csv</li>
 
--- remove lists that you have already uploaded from the "files" folder
+<h4>Step 2 - Format your Data</h4>
+<li class="addHeight">Export your csv to JSON</li>
+<li class="addHeight">Use something like <a href="https://csvjson.com/csv2json">CSVtoJson</a></li>
+<li class="addHeight">Place your json file in the "file" folder, the name of your json file will be the name of the Firebase Collection</li>
 
--- if you run into errors running the uploader delete .DS_store file in the "files folder" </p>
-<br/>
+<h4>Step 3 - Setup Firebase</h4>
+<li class="addHeight">Add Project on Firebase</li>
+<li class="addHeight">Download Service Key for the project</li>
+<li class="addHeight">Rename your service key to "service_key.json" and add it to the root project folder
+
+<h4>Set up Node</h4>
+<li class="addHeight">NPM Init</li>
+<li class="addHeight">NPM install firebase-admin</li>
+
+<h4>Upload data</h4>
+<li>node uploader.js</li>
+
+<h4>Tricks/Tips/Errors</h4>
+<li class="addHeight">Remove your json from the "files" folder after running so you don't duplicate data</li>
+<li style="margin-bottom:10px">if you run into the error below delete .DS_store in the "files" " folder</li>
 <img src="/images/jsonUploader.png">
-<br/>
 
-
-
-<br/>
+<br />
 <br />
 
-
-
-<a href="https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5">Medium - How to Upload Data to Firebase</a>
+<h4>Sources</h4>
+<p> This article on
+<a href="https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5">Medium - How to Upload Data to Firebase</a> was a great resource </p>
 <br/>
 <br/>
 <!-- https://www.youtube.com/watch?v=Qg2_VFFcAI8 -->
-<iframe width="350" height="200" src="https://www.youtube.com/embed/Qg2_VFFcAI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="200" src="https://www.youtube.com/embed/Qg2_VFFcAI8" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

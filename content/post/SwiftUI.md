@@ -18,7 +18,7 @@ img {
 }
 </style>
 
-<a  href="https://github.com/katiewhelan/Swift/tree/RealmInsteadofCoreData/SwiftUI/BusinessCard">Github</a>
+Check out my work here <a href="https://github.com/katiewhelan/Swift/tree/RealmInsteadofCoreData/SwiftUI/BusinessCard">Github</a>
 <br/>
 <img src="/images/swift/SwiftUI.png" width ="175" height="355">
 {{< /rawhtml >}}
