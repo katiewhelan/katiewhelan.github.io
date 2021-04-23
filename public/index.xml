@@ -13,8 +13,7 @@
       <pubDate>Thu, 01 Apr 2021 20:03:58 -0500</pubDate>
       
       <guid>http://example.org/post/core-data/</guid>
-      <description>https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial
-Why I did not use core data for this project</description>
+      <description>img { border-radius: 12%; margin-left: 150px; }</description>
     </item>
     
     <item>
@@ -32,8 +31,7 @@ Why I did not use core data for this project</description>
       <pubDate>Sun, 28 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>http://example.org/post/tabbar/</guid>
-      <description>https://www.youtube.com/watch?v=Nx3qPQ_qOFM
-documentation does not make it clear that you must start with tab controller</description>
+      <description>img.gifImage { border-radius: 10%; margin: 20px 20px 10px 30px; width: 170px; height: 355px; } img.</description>
     </item>
     
     <item>
@@ -71,17 +69,16 @@ https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app</description
       <pubDate>Tue, 23 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>http://example.org/post/scroll-view/</guid>
-      <description>https://fluffy.es/scrollview-storyboard-xcode-11/
-Screen shot the image about align Leading setting multiplier to 1</description>
+      <description>Add a screen shot of the scrolling functionality https://fluffy.</description>
     </item>
     
     <item>
-      <title>Firebase Data Upload</title>
+      <title>Firebase - Data Upload</title>
       <link>http://example.org/post/firbase-data-upload/</link>
       <pubDate>Sat, 20 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>http://example.org/post/firbase-data-upload/</guid>
-      <description>https://www.youtube.com/watch?v=Qg2_VFFcAI8 https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5 link to json uploader &amp;ndash;&amp;gt; Make private file for personal records that are git ignored Tips node uploader.</description>
+      <description>li.addHeight { margin-bottom: 10px; }  Uploader on Github  One of the key components of my application is the ability to search collections of items.</description>
     </item>
     
     <item>
@@ -90,8 +87,7 @@ Screen shot the image about align Leading setting multiplier to 1</description>
       <pubDate>Fri, 05 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>http://example.org/post/cloud-functions/</guid>
-      <description>https://www.youtube.com/watch?v=3Z0V3cvgns8
-  firebase init Functions npm install algoliasearch firebase functions:config:set algolia.</description>
+      <description>firebase init Functions npm install algoliasearch firebase functions:config:set algolia.</description>
     </item>
     
     <item>
@@ -100,8 +96,7 @@ Screen shot the image about align Leading setting multiplier to 1</description>
       <pubDate>Thu, 04 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>http://example.org/post/forms-with-stack-view/</guid>
-      <description>  https://www.youtube.com/watch?v=-haK6v6YiU8
-  </description>
+      <description>  Screen shot of main page here Use stack views instead of pinning each allowed me to create a reusable screen that dynamically can show and hide fields depending on if the field has information  </description>
     </item>
     
     <item>
@@ -110,7 +105,7 @@ Screen shot the image about align Leading setting multiplier to 1</description>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/post/custom-alert/</guid>
-      <description>https://www.youtube.com/watch?v=NP7H_LjTZGw</description>
+      <description>   add a screen shot of my Custom Alert  </description>
     </item>
     
     <item>
@@ -137,8 +132,7 @@ Screen shot the image about align Leading setting multiplier to 1</description>
       <pubDate>Sun, 21 Feb 2021 20:03:58 -0500</pubDate>
       
       <guid>http://example.org/post/firebase/</guid>
-      <description>  &amp;ndash; Why &amp;ndash; Pros
- Easy to set up Quick integration into the project &amp;ndash; Cons Lack of sorting/ filtering when searching for specific text  </description>
+      <description>   li.addHeight { margin-bottom: 10px; }  Since I had used firebase for several of the course tutorials I decided it would v Pros  Easy to set up Quickly integrated with IOS project  Cons  Need 3rd party for better searching capacity Can only search from start of string/li  </description>
     </item>
     
     <item>
@@ -147,7 +141,7 @@ Screen shot the image about align Leading setting multiplier to 1</description>
       <pubDate>Thu, 18 Feb 2021 20:03:58 -0500</pubDate>
       
       <guid>http://example.org/post/swiftui/</guid>
-      <description>Add screen shot from project Link directly to the UISwift Project on github</description>
+      <description>img { border-radius: 12%; margin: 20px 20px 10px 50px; } img.</description>
     </item>
     
     <item>
@@ -156,8 +150,7 @@ Screen shot the image about align Leading setting multiplier to 1</description>
       <pubDate>Mon, 15 Feb 2021 20:03:58 -0500</pubDate>
       
       <guid>http://example.org/post/design-tools/</guid>
-      <description>https://colorhunt.co/
-https://appicon.co/#image-sets</description>
+      <description>   li.addHeight { margin-bottom: 10px; }  Choosing Colors   Color Hunt   Creating Icons  App Icon Generator Canva  </description>
     </item>
     
     <item>
@@ -175,7 +168,7 @@ https://appicon.co/#image-sets</description>
       <pubDate>Fri, 12 Feb 2021 19:39:14 -0500</pubDate>
       
       <guid>http://example.org/post/swift/</guid>
-      <description>IOS &amp;amp; Swift - The Complete IOS App Development Bootcamp -My Work &amp;ndash; Link to Github</description>
+      <description>Udemy &amp;ndash;&amp;gt; IOS &amp;amp; Swift - The Complete IOS App Development Bootcamp Checkout Github to see my completed work for this course</description>
     </item>
     
     <item>
@@ -184,7 +177,7 @@ https://appicon.co/#image-sets</description>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/post/kotlin/</guid>
-      <description>The Complete Android 10 &amp;amp; Development Masterclass Check out Github to see my completed work for the course</description>
+      <description>Udemy &amp;ndash;&amp;gt; The Complete Android 10 &amp;amp; Development Masterclass Check out Github to see my completed work for this course</description>
     </item>
     
     <item>
@@ -193,7 +186,7 @@ https://appicon.co/#image-sets</description>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/next/</guid>
-      <description>What&amp;rsquo;s Next?  As a life long learner I am always looking to my next project.</description>
+      <description>What&amp;rsquo;s Next    As a life long learner I am always looking to my next project</description>
     </item>
     
     <item>

@@ -25,8 +25,6 @@ img.centergif {
   margin-right: auto;
 }
 iframe.center {
-
-
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -42,11 +40,7 @@ documentation does not make it clear that you must start with tab controller</p>
 
 
 
-<img src="/images/swift/collect/Start.gif" alt="App Screenshot" class="centergif">
-
-
-
-
+<img src="/images/swift/collect/tabbar.png" alt="App Screenshot" class="centergif">
 
 
 <p>This Youtube tutorial was great tool in understanding how the tabBar controllers and view controllers work together</p>

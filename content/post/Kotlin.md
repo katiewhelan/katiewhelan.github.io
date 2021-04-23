@@ -15,6 +15,7 @@ draft: false
 Check out [Github](https://github.com/katiewhelan/Kotlin) to see my completed work for this course
 
 {{< rawhtml >}}
+
 <style>
 img.gifImage {
   border-radius: 10%;

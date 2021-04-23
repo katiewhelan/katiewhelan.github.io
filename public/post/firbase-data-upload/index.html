@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" data-theme="dark"><head>
-    <title> Kathryn Whelan | Firebase Data Upload </title>
+    <title> Kathryn Whelan | Firebase - Data Upload </title>
 
     
     <meta charset="utf-8"><meta name="generator" content="Hugo 0.82.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
@@ -54,8 +54,8 @@ Looking For Mobile Development Opportunities
     <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="http://example.org/images/site-feature-image.png"/>
 
-<meta name="twitter:title" content="Firebase Data Upload"/>
-<meta name="twitter:description" content="https://www.youtube.com/watch?v=Qg2_VFFcAI8 https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5 link to json uploader &ndash;&gt; Make private file for personal records that are git ignored Tips node uploader."/>
+<meta name="twitter:title" content="Firebase - Data Upload"/>
+<meta name="twitter:description" content="li.addHeight { margin-bottom: 10px; }  Uploader on Github  One of the key components of my application is the ability to search collections of items."/>
 
 
     
@@ -153,7 +153,7 @@ Looking For Mobile Development Opportunities
         <div class="post-content">
             
             <div class="post-title">
-                <h3>Firebase Data Upload</h3>
+                <h3>Firebase - Data Upload</h3>
                 
                     <div class="info">
                         <em class="fas fa-calendar-day"></em>
@@ -171,24 +171,67 @@ Looking For Mobile Development Opportunities
 
 
 <hr>
-<p><a href="https://www.youtube.com/watch?v=Qg2_VFFcAI8">https://www.youtube.com/watch?v=Qg2_VFFcAI8</a>
-<a href="https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5">https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5</a>
-link to json uploader &ndash;&gt; Make private file for personal records that are git ignored
-Tips
-node uploader.js &ndash;&gt; to run</p>
-<p>&ndash; remove lists that you have already uploaded from the &ldquo;files&rdquo; folder</p>
-<p>&ndash; if you run into errors running the uploader delete .DS_store file in the &ldquo;files folder&rdquo;</p>
-<p>&ndash;SyntaxError: Invalid or unexpected token
-at Object.compileFunction (node:vm:355:18)
-at wrapSafe (node:internal/modules/cjs/loader:1022:15)
-at Module._compile (node:internal/modules/cjs/loader:1056:27)
-at Object.Module._extensions..js (node:internal/modules/cjs/loader:1121:10)
-at Module.load (node:internal/modules/cjs/loader:972:32)
-at Function.Module._load (node:internal/modules/cjs/loader:813:14)
-at Module.require (node:internal/modules/cjs/loader:996:19)
-at require (node:internal/modules/cjs/helpers:92:18)
-at /Users/littlewhelan/Documents/Code/JSON/uploader.js:22:16
-at Array.forEach (<!-- raw HTML omitted -->)</p>
+
+
+<style>
+li.addHeight {
+  margin-bottom: 10px;
+}
+</style>
+
+Uploader on <a href="https://github.com/katiewhelan/firebaseUploader">Github</a>
+<br/>
+
+<p>One of the key components of my application is the ability to search collections of items. My application has the ability to add data directly however I did not wish to do this for every single item. I found a couple of tutorials on how to upload data from csv files to firebase that were extremely useful.  
+<br/>
+
+
+<h4>Step 1 - Gather your Data</h4>
+<li class="addHeight">Create an excel spread sheet with the first column named "objectId"</li>
+<li class="addHeight">Make sure this matches the name in the uploader.js exactly/li>
+<li class="addHeight">Empty rows will cause errors as will empty objefctId fields being empty</li>
+<li class="addHeight">Export your spreadsheet to csv</li>
+
+<h4>Step 2 - Format your Data</h4>
+<li class="addHeight">Export your csv to JSON</li>
+<li class="addHeight">Use something like <a href="https://csvjson.com/csv2json">CSVtoJson</a></li>
+<li class="addHeight">Place your json file in the "file" folder, the name of your json file will be the name of the Firebase Collection</li>
+
+<h4>Step 3 - Setup Firebase</h4>
+<li class="addHeight">Add Project on Firebase</li>
+<li class="addHeight">Download Service Key for the project</li>
+<li class="addHeight">Rename your service key to "service_key.json" and add it to the root project folder
+
+<h4>Set up Node</h4>
+<li class="addHeight">NPM Init</li>
+<li class="addHeight">NPM install firebase-admin</li>
+
+<h4>Upload data</h4>
+<li>node uploader.js</li>
+
+<h4>Tricks/Tips/Errors</h4>
+<li class="addHeight">Remove your json from the "files" folder after running so you don't duplicate data</li>
+<li style="margin-bottom:10px">if you run into the error below delete .DS_store in the "files" " folder</li>
+<img src="/images/jsonUploader.png">
+
+<br />
+<br />
+
+<h4>Sources</h4>
+<p> This article on
+<a href="https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5">Medium - How to Upload Data to Firebase</a> was a great resource </p>
+<br/>
+<br/>
+<!-- https://www.youtube.com/watch?v=Qg2_VFFcAI8 -->
+<iframe width="350" height="200" src="https://www.youtube.com/embed/Qg2_VFFcAI8" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
 </div>
         <div class="post-footer">
             <div class="info">
