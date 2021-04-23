@@ -15,23 +15,6 @@ draft: false
 Checkout [Github](https://github.com/katiewhelan/Swift) to see my completed work for this course
 
 {{< rawhtml >}}
-<style>
-img.gifImage{
-  border-radius: 10%;
-  margin: 20px 20px 10px 30px;
-  width: 170px;
-  height : 345px;
-}
-img.centergif {
-  display: block;
-  border-radius: 10%;
-  width: 170px;
-  height : 345px;
-  margin-left: auto;
-  margin-right: auto;
-
-}
-</style>
 <p>This course started out with the recreation of the <a href="https://en.wikipedia.org/wiki/I_Am_Rich">"I am Rich"</a> App, a text adventure app, a tip calculator, a weather application, a To Do List and many more. </p>
 
 

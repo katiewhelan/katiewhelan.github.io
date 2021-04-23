@@ -10,11 +10,7 @@ draft: false
 ***
 
 {{< rawhtml >}}
-<style>
-li.addHeight {
-  margin-bottom: 10px;
-}
-</style>
+
 <p>Since I had used firebase for several of the course tutorials I decided it would v </p>
 <h3>Pros</h3>
 <ul>

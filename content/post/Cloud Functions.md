@@ -17,7 +17,7 @@ firebase functions:config:set algolia.appid"" algolia.apikey""
 npm install
 firebase deploy --only functions
 <br/>
-<iframe width="350" height="200" src="https://www.youtube.com/embed/3Z0V3cvgns8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="200" class="center" src="https://www.youtube.com/embed/3Z0V3cvgns8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

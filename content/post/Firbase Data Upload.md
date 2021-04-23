@@ -9,11 +9,7 @@ draft: false
 
 ***
 {{< rawhtml >}}
-<style>
-li.addHeight {
-  margin-bottom: 10px;
-}
-</style>
+
 
 Uploader on <a href="https://github.com/katiewhelan/firebaseUploader">Github</a>
 <br/>
@@ -59,7 +55,7 @@ Uploader on <a href="https://github.com/katiewhelan/firebaseUploader">Github</a>
 <br/>
 <br/>
 <!-- https://www.youtube.com/watch?v=Qg2_VFFcAI8 -->
-<iframe width="350" height="200" src="https://www.youtube.com/embed/Qg2_VFFcAI8" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="200" class="center" src="https://www.youtube.com/embed/Qg2_VFFcAI8" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

@@ -11,20 +11,6 @@ draft: false
 ***
 
 {{< rawhtml >}}
-<style>
-img {
-  border-radius: 12%;
-  margin: 20px 20px 10px 50px;
-}
-img.centergif {
-  border-radius: 10%;
-  width: 170px;
-  height: 345px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 
 Check out my work here <a href="https://github.com/katiewhelan/Swift/tree/RealmInsteadofCoreData/SwiftUI/BusinessCard">Github</a>
 <br/>

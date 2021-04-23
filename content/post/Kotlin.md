@@ -15,23 +15,6 @@ draft: false
 Check out [Github](https://github.com/katiewhelan/Kotlin) to see my completed work for this course
 
 {{< rawhtml >}}
-
-<style>
-img.gifImage {
-  border-radius: 10%;
-  margin: 20px 20px 10px 30px;
-  width: 170px;
-  height: 355px;
-}
-img.centergif {
-  border-radius: 10%;
-  width: 170px;
-  height: 345px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 <p>This course had a great range of projects starting with the classic Hello World to a fully functioning "Trello" application.  Below are some screen shots of the working apps that I created. </p>
 <!-- <p>The biggest challenge for this course was that some of</p> -->
 <h3>

@@ -9,16 +9,9 @@ draft: false
 
 ***
 {{< rawhtml >}}
-<style>
-img {
-  border-radius: 12%;
-  margin-left: 150px;
-}
-</style>
-<p></p>
-<br/>
 
-<img src="/images/swift/ToDo.gif" width="175" height="355">
+
+<img src="/images/swift/ToDo.gif" class="centergif">
 
 
 <!-- https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial -->

@@ -9,27 +9,6 @@ draft: false
 
 ***
 {{< rawhtml >}}
-<style>
-img.gifImage {
-  border-radius: 10%;
-  margin: 20px 20px 10px 30px;
-  width: 170px;
-  height: 355px;
-}
-img.centergif {
-  border-radius: 10%;
-  width: 170px;
-  height: 345px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-iframe.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 <p>My application starts with a TabBar controller, once I got
 
 issue --

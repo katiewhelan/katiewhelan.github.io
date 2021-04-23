@@ -9,13 +9,6 @@ draft: false
 
 ***
 {{< rawhtml >}}
-
-<style>
-li.addHeight {
-  margin-bottom: 10px;
-}
-</style>
-
 <h3>Choosing Colors</h3>
 <ul>
 <li>
