@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kathryn Whelan</title>
-    <link>http://example.org/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Kathryn Whelan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 20:03:58 -0500</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 20:03:58 -0500</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Core Data</title>
-      <link>http://example.org/post/core-data/</link>
+      <link>/post/core-data/</link>
       <pubDate>Thu, 01 Apr 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/core-data/</guid>
-      <description>img { border-radius: 12%; margin-left: 150px; }</description>
+      <guid>/post/core-data/</guid>
+      <description>  </description>
     </item>
     
     <item>
       <title>Code Reuse</title>
-      <link>http://example.org/post/code-resuse/</link>
+      <link>/post/code-resuse/</link>
       <pubDate>Mon, 29 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/code-resuse/</guid>
+      <guid>/post/code-resuse/</guid>
       <description>&amp;ndash; What I ran into for this project, the different search sites</description>
     </item>
     
     <item>
       <title>TabBar</title>
-      <link>http://example.org/post/tabbar/</link>
+      <link>/post/tabbar/</link>
       <pubDate>Sun, 28 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/tabbar/</guid>
-      <description>img.gifImage { border-radius: 10%; margin: 20px 20px 10px 30px; width: 170px; height: 355px; } img.</description>
+      <guid>/post/tabbar/</guid>
+      <description>My application starts with a TabBar controller, once I got issue -- can programtaically add vc to navigation controller, build does not fail but can not see the buttons that are added documentation does not make it clear that you must start with tab controller</description>
     </item>
     
     <item>
       <title>Docker/GKE/Azure/AWS</title>
-      <link>http://example.org/post/docker_gke_azure_aws/</link>
+      <link>/post/docker_gke_azure_aws/</link>
       <pubDate>Sat, 27 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/docker_gke_azure_aws/</guid>
+      <guid>/post/docker_gke_azure_aws/</guid>
       <description>https://docs.docker.com/cloud/aci-integration/
 https://docs.docker.com/cloud/ecs-integration/
 https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app</description>
@@ -47,136 +47,136 @@ https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app</description
     
     <item>
       <title>Hugo</title>
-      <link>http://example.org/post/hugo/</link>
+      <link>/post/hugo/</link>
       <pubDate>Fri, 26 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/hugo/</guid>
+      <guid>/post/hugo/</guid>
       <description>&amp;ndash; Markdown &amp;ndash; vidoes on understanding structure &amp;ndash;shortcodes &amp;ndash; getting html into markdown</description>
     </item>
     
     <item>
       <title>CI/CD with Github</title>
-      <link>http://example.org/post/ci%5Ccd-with-github/</link>
+      <link>/post/ci%5Ccd-with-github/</link>
       <pubDate>Thu, 25 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/ci%5Ccd-with-github/</guid>
+      <guid>/post/ci%5Ccd-with-github/</guid>
       <description>Future &amp;ndash; Set up this site to push updates when edited</description>
     </item>
     
     <item>
       <title>Scroll View</title>
-      <link>http://example.org/post/scroll-view/</link>
+      <link>/post/scroll-view/</link>
       <pubDate>Tue, 23 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/scroll-view/</guid>
-      <description>Add a screen shot of the scrolling functionality https://fluffy.</description>
+      <guid>/post/scroll-view/</guid>
+      <description>  https://fluffy.es/scrollview-storyboard-xcode-11/ Screen shot the image about align Leading setting multiplier to 1 </description>
     </item>
     
     <item>
       <title>Firebase - Data Upload</title>
-      <link>http://example.org/post/firbase-data-upload/</link>
+      <link>/post/firbase-data-upload/</link>
       <pubDate>Sat, 20 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/firbase-data-upload/</guid>
-      <description>li.addHeight { margin-bottom: 10px; }  Uploader on Github  One of the key components of my application is the ability to search collections of items.</description>
+      <guid>/post/firbase-data-upload/</guid>
+      <description>Uploader on Github  One of the key components of my application is the ability to search collections of items.</description>
     </item>
     
     <item>
       <title>Cloud Functions</title>
-      <link>http://example.org/post/cloud-functions/</link>
+      <link>/post/cloud-functions/</link>
       <pubDate>Fri, 05 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/cloud-functions/</guid>
+      <guid>/post/cloud-functions/</guid>
       <description>firebase init Functions npm install algoliasearch firebase functions:config:set algolia.</description>
     </item>
     
     <item>
       <title>Forms with Stack View</title>
-      <link>http://example.org/post/forms-with-stack-view/</link>
+      <link>/post/forms-with-stack-view/</link>
       <pubDate>Thu, 04 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/forms-with-stack-view/</guid>
-      <description>  Screen shot of main page here Use stack views instead of pinning each allowed me to create a reusable screen that dynamically can show and hide fields depending on if the field has information  </description>
+      <guid>/post/forms-with-stack-view/</guid>
+      <description>  Use stack views instead of pinning each allowed me to create a reusable screen that dynamically can show and hide fields depending on if the field has information  </description>
     </item>
     
     <item>
       <title>Custom Alert</title>
-      <link>http://example.org/post/custom-alert/</link>
+      <link>/post/custom-alert/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/custom-alert/</guid>
-      <description>   add a screen shot of my Custom Alert  </description>
+      <guid>/post/custom-alert/</guid>
+      <description>   </description>
     </item>
     
     <item>
       <title>Algolia</title>
-      <link>http://example.org/post/algolia/</link>
+      <link>/post/algolia/</link>
       <pubDate>Fri, 26 Feb 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/algolia/</guid>
+      <guid>/post/algolia/</guid>
       <description>Why &amp;ndash; Firebase could only search on first word</description>
     </item>
     
     <item>
       <title>Package Managers</title>
-      <link>http://example.org/post/package-managers/</link>
+      <link>/post/package-managers/</link>
       <pubDate>Tue, 23 Feb 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/package-managers/</guid>
+      <guid>/post/package-managers/</guid>
       <description>  Cocoa Pods Swift Package Manager </description>
     </item>
     
     <item>
       <title>Firebase</title>
-      <link>http://example.org/post/firebase/</link>
+      <link>/post/firebase/</link>
       <pubDate>Sun, 21 Feb 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/firebase/</guid>
-      <description>   li.addHeight { margin-bottom: 10px; }  Since I had used firebase for several of the course tutorials I decided it would v Pros  Easy to set up Quickly integrated with IOS project  Cons  Need 3rd party for better searching capacity Can only search from start of string/li  </description>
+      <guid>/post/firebase/</guid>
+      <description>  Since I had used firebase for several of the course tutorials I decided it would v Pros  Easy to set up Quickly integrated with IOS project  Cons  Need 3rd party for better searching capacity Can only search from start of string/li  </description>
     </item>
     
     <item>
       <title>SwiftUI</title>
-      <link>http://example.org/post/swiftui/</link>
+      <link>/post/swiftui/</link>
       <pubDate>Thu, 18 Feb 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/swiftui/</guid>
-      <description>img { border-radius: 12%; margin: 20px 20px 10px 50px; } img.</description>
+      <guid>/post/swiftui/</guid>
+      <description>  Check out my work here Github  </description>
     </item>
     
     <item>
       <title>Design Tools</title>
-      <link>http://example.org/post/design-tools/</link>
+      <link>/post/design-tools/</link>
       <pubDate>Mon, 15 Feb 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/design-tools/</guid>
-      <description>   li.addHeight { margin-bottom: 10px; }  Choosing Colors   Color Hunt   Creating Icons  App Icon Generator Canva  </description>
+      <guid>/post/design-tools/</guid>
+      <description>  Choosing Colors   Color Hunt   Creating Icons  App Icon Generator Canva  </description>
     </item>
     
     <item>
       <title>Xcode</title>
-      <link>http://example.org/post/xcode/</link>
+      <link>/post/xcode/</link>
       <pubDate>Sat, 13 Feb 2021 20:03:58 -0500</pubDate>
       
-      <guid>http://example.org/post/xcode/</guid>
+      <guid>/post/xcode/</guid>
       <description>Tips/ Tricks / Useful getting started notes</description>
     </item>
     
     <item>
       <title>Swift</title>
-      <link>http://example.org/post/swift/</link>
+      <link>/post/swift/</link>
       <pubDate>Fri, 12 Feb 2021 19:39:14 -0500</pubDate>
       
-      <guid>http://example.org/post/swift/</guid>
+      <guid>/post/swift/</guid>
       <description>Udemy &amp;ndash;&amp;gt; IOS &amp;amp; Swift - The Complete IOS App Development Bootcamp Checkout Github to see my completed work for this course</description>
     </item>
     
     <item>
       <title>Kotlin</title>
-      <link>http://example.org/post/kotlin/</link>
+      <link>/post/kotlin/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/kotlin/</guid>
+      <guid>/post/kotlin/</guid>
       <description>Udemy &amp;ndash;&amp;gt; The Complete Android 10 &amp;amp; Development Masterclass Check out Github to see my completed work for this course</description>
     </item>
     

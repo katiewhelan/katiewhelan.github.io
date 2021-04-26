@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en-us"
 title = "Kathryn Whelan"
@@ -66,19 +66,25 @@ url = "mailto:klwhelan@gmail.com"
   url = "/project/"
 
   [[menu.main]]
-  name = "Blog"
+  name = "App in Action"
   weight = 300
+  identifier = "appInAction"
+  url = "/appInAction/"
+
+  [[menu.main]]
+  name = "Blog"
+  weight = 400
   identifier = "blog"
   url = "/blog/"
 
   [[menu.main]]
   name = "What's Next"
-  weight = 400
+  weight = 500
   identifier = "next"
   url = "/next/"
 
   [[menu.main]]
   name = "Resume"
-  weight = 500
+  weight = 600
   identifier = "resume"
   url = "/resume/"
