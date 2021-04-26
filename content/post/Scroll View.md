@@ -9,7 +9,8 @@ draft: false
 
 ***
 {{< rawhtml >}}
-Add a screen shot of the scrolling functionality
+
+<img src="/images/swift/collect/ScrollScreen.gif" alt="Scroll View" class="centergif">
 
 https://fluffy.es/scrollview-storyboard-xcode-11/
 
