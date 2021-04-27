@@ -2,85 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>www.kathrynlwhelan.com/</loc>
     <lastmod>2021-04-01T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/core-data/</loc>
+    <loc>www.kathrynlwhelan.com/post/core-data/</loc>
     <lastmod>2021-04-01T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>www.kathrynlwhelan.com/post/</loc>
     <lastmod>2021-04-01T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/code-resuse/</loc>
+    <loc>www.kathrynlwhelan.com/post/code-resuse/</loc>
     <lastmod>2021-03-29T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/tabbar/</loc>
+    <loc>www.kathrynlwhelan.com/post/tabbar/</loc>
     <lastmod>2021-03-28T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/docker_gke_azure_aws/</loc>
+    <loc>www.kathrynlwhelan.com/post/docker_gke_azure_aws/</loc>
     <lastmod>2021-03-27T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/hugo/</loc>
+    <loc>www.kathrynlwhelan.com/post/hugo/</loc>
     <lastmod>2021-03-26T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/ci%5Ccd-with-github/</loc>
+    <loc>www.kathrynlwhelan.com/post/ci%5Ccd-with-github/</loc>
     <lastmod>2021-03-25T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/scroll-view/</loc>
+    <loc>www.kathrynlwhelan.com/post/scroll-view/</loc>
     <lastmod>2021-03-23T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/firbase-data-upload/</loc>
+    <loc>www.kathrynlwhelan.com/post/firbase-data-upload/</loc>
     <lastmod>2021-03-20T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/cloud-functions/</loc>
+    <loc>www.kathrynlwhelan.com/post/cloud-functions/</loc>
     <lastmod>2021-03-05T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/forms-with-stack-view/</loc>
+    <loc>www.kathrynlwhelan.com/post/forms-with-stack-view/</loc>
     <lastmod>2021-03-04T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/custom-alert/</loc>
+    <loc>www.kathrynlwhelan.com/post/custom-alert/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/algolia/</loc>
+    <loc>www.kathrynlwhelan.com/post/algolia/</loc>
     <lastmod>2021-02-26T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/package-managers/</loc>
+    <loc>www.kathrynlwhelan.com/post/package-managers/</loc>
     <lastmod>2021-02-23T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/firebase/</loc>
+    <loc>www.kathrynlwhelan.com/post/firebase/</loc>
     <lastmod>2021-02-21T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/swiftui/</loc>
+    <loc>www.kathrynlwhelan.com/post/swiftui/</loc>
     <lastmod>2021-02-18T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/design-tools/</loc>
+    <loc>www.kathrynlwhelan.com/post/design-tools/</loc>
     <lastmod>2021-02-15T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/xcode/</loc>
+    <loc>www.kathrynlwhelan.com/post/xcode/</loc>
     <lastmod>2021-02-13T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>/post/swift/</loc>
+    <loc>www.kathrynlwhelan.com/post/swift/</loc>
     <lastmod>2021-02-12T19:39:14-05:00</lastmod>
   </url><url>
-    <loc>/post/kotlin/</loc>
+    <loc>www.kathrynlwhelan.com/post/kotlin/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/appinaction/</loc>
+    <loc>www.kathrynlwhelan.com/appinaction/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/next/</loc>
+    <loc>www.kathrynlwhelan.com/next/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>www.kathrynlwhelan.com/project/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/resume/</loc>
+    <loc>www.kathrynlwhelan.com/resume/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>www.kathrynlwhelan.com/categories/</loc>
   </url><url>
-    <loc>/tags/index/</loc>
+    <loc>www.kathrynlwhelan.com/tags/index/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>www.kathrynlwhelan.com/tags/</loc>
   </url>
 </urlset>

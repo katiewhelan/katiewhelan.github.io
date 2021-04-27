@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Kathryn Whelan</title>
-    <link>/tags/index/</link>
+    <link>www.kathrynlwhelan.com/tags/index/</link>
     <description>Recent content in index on Kathryn Whelan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="www.kathrynlwhelan.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>www.kathrynlwhelan.com/post/</link>
       <pubDate>Thu, 01 Apr 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/</guid>
+      <guid>www.kathrynlwhelan.com/post/</guid>
       <description></description>
     </item>
     

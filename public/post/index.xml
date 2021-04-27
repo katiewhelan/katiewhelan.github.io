@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kathryn Whelan</title>
-    <link>/post/</link>
+    <link>www.kathrynlwhelan.com/post/</link>
     <description>Recent content in Posts on Kathryn Whelan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 20:03:58 -0500</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 20:03:58 -0500</lastBuildDate><atom:link href="www.kathrynlwhelan.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Core Data</title>
-      <link>/post/core-data/</link>
+      <link>www.kathrynlwhelan.com/post/core-data/</link>
       <pubDate>Thu, 01 Apr 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/core-data/</guid>
+      <guid>www.kathrynlwhelan.com/post/core-data/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>Code Reuse</title>
-      <link>/post/code-resuse/</link>
+      <link>www.kathrynlwhelan.com/post/code-resuse/</link>
       <pubDate>Mon, 29 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/code-resuse/</guid>
+      <guid>www.kathrynlwhelan.com/post/code-resuse/</guid>
       <description>&amp;ndash; What I ran into for this project, the different search sites</description>
     </item>
     
     <item>
       <title>TabBar</title>
-      <link>/post/tabbar/</link>
+      <link>www.kathrynlwhelan.com/post/tabbar/</link>
       <pubDate>Sun, 28 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/tabbar/</guid>
+      <guid>www.kathrynlwhelan.com/post/tabbar/</guid>
       <description>My application starts with a TabBar controller, once I got issue -- can programtaically add vc to navigation controller, build does not fail but can not see the buttons that are added documentation does not make it clear that you must start with tab controller</description>
     </item>
     
     <item>
       <title>Docker/GKE/Azure/AWS</title>
-      <link>/post/docker_gke_azure_aws/</link>
+      <link>www.kathrynlwhelan.com/post/docker_gke_azure_aws/</link>
       <pubDate>Sat, 27 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/docker_gke_azure_aws/</guid>
+      <guid>www.kathrynlwhelan.com/post/docker_gke_azure_aws/</guid>
       <description>https://docs.docker.com/cloud/aci-integration/
 https://docs.docker.com/cloud/ecs-integration/
 https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app</description>
@@ -47,136 +47,136 @@ https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app</description
     
     <item>
       <title>Hugo</title>
-      <link>/post/hugo/</link>
+      <link>www.kathrynlwhelan.com/post/hugo/</link>
       <pubDate>Fri, 26 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/hugo/</guid>
+      <guid>www.kathrynlwhelan.com/post/hugo/</guid>
       <description>&amp;ndash; Markdown &amp;ndash; vidoes on understanding structure &amp;ndash;shortcodes &amp;ndash; getting html into markdown</description>
     </item>
     
     <item>
       <title>CI/CD with Github</title>
-      <link>/post/ci%5Ccd-with-github/</link>
+      <link>www.kathrynlwhelan.com/post/ci%5Ccd-with-github/</link>
       <pubDate>Thu, 25 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/ci%5Ccd-with-github/</guid>
+      <guid>www.kathrynlwhelan.com/post/ci%5Ccd-with-github/</guid>
       <description>Future &amp;ndash; Set up this site to push updates when edited</description>
     </item>
     
     <item>
       <title>Scroll View</title>
-      <link>/post/scroll-view/</link>
+      <link>www.kathrynlwhelan.com/post/scroll-view/</link>
       <pubDate>Tue, 23 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/scroll-view/</guid>
+      <guid>www.kathrynlwhelan.com/post/scroll-view/</guid>
       <description>  https://fluffy.es/scrollview-storyboard-xcode-11/ Screen shot the image about align Leading setting multiplier to 1 </description>
     </item>
     
     <item>
       <title>Firebase - Data Upload</title>
-      <link>/post/firbase-data-upload/</link>
+      <link>www.kathrynlwhelan.com/post/firbase-data-upload/</link>
       <pubDate>Sat, 20 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/firbase-data-upload/</guid>
+      <guid>www.kathrynlwhelan.com/post/firbase-data-upload/</guid>
       <description>Uploader on Github  One of the key components of my application is the ability to search collections of items.</description>
     </item>
     
     <item>
       <title>Cloud Functions</title>
-      <link>/post/cloud-functions/</link>
+      <link>www.kathrynlwhelan.com/post/cloud-functions/</link>
       <pubDate>Fri, 05 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/cloud-functions/</guid>
+      <guid>www.kathrynlwhelan.com/post/cloud-functions/</guid>
       <description>firebase init Functions npm install algoliasearch firebase functions:config:set algolia.</description>
     </item>
     
     <item>
       <title>Forms with Stack View</title>
-      <link>/post/forms-with-stack-view/</link>
+      <link>www.kathrynlwhelan.com/post/forms-with-stack-view/</link>
       <pubDate>Thu, 04 Mar 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/forms-with-stack-view/</guid>
+      <guid>www.kathrynlwhelan.com/post/forms-with-stack-view/</guid>
       <description>  Use stack views instead of pinning each allowed me to create a reusable screen that dynamically can show and hide fields depending on if the field has information  </description>
     </item>
     
     <item>
       <title>Custom Alert</title>
-      <link>/post/custom-alert/</link>
+      <link>www.kathrynlwhelan.com/post/custom-alert/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/custom-alert/</guid>
+      <guid>www.kathrynlwhelan.com/post/custom-alert/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Algolia</title>
-      <link>/post/algolia/</link>
+      <link>www.kathrynlwhelan.com/post/algolia/</link>
       <pubDate>Fri, 26 Feb 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/algolia/</guid>
+      <guid>www.kathrynlwhelan.com/post/algolia/</guid>
       <description>Why &amp;ndash; Firebase could only search on first word</description>
     </item>
     
     <item>
       <title>Package Managers</title>
-      <link>/post/package-managers/</link>
+      <link>www.kathrynlwhelan.com/post/package-managers/</link>
       <pubDate>Tue, 23 Feb 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/package-managers/</guid>
+      <guid>www.kathrynlwhelan.com/post/package-managers/</guid>
       <description>  Cocoa Pods Swift Package Manager </description>
     </item>
     
     <item>
       <title>Firebase</title>
-      <link>/post/firebase/</link>
+      <link>www.kathrynlwhelan.com/post/firebase/</link>
       <pubDate>Sun, 21 Feb 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/firebase/</guid>
+      <guid>www.kathrynlwhelan.com/post/firebase/</guid>
       <description>  Since I had used firebase for several of the course tutorials I decided it would v Pros  Easy to set up Quickly integrated with IOS project  Cons  Need 3rd party for better searching capacity Can only search from start of string/li  </description>
     </item>
     
     <item>
       <title>SwiftUI</title>
-      <link>/post/swiftui/</link>
+      <link>www.kathrynlwhelan.com/post/swiftui/</link>
       <pubDate>Thu, 18 Feb 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/swiftui/</guid>
+      <guid>www.kathrynlwhelan.com/post/swiftui/</guid>
       <description>  Check out my work here Github  </description>
     </item>
     
     <item>
       <title>Design Tools</title>
-      <link>/post/design-tools/</link>
+      <link>www.kathrynlwhelan.com/post/design-tools/</link>
       <pubDate>Mon, 15 Feb 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/design-tools/</guid>
+      <guid>www.kathrynlwhelan.com/post/design-tools/</guid>
       <description>  Choosing Colors   Color Hunt   Creating Icons  App Icon Generator Canva  </description>
     </item>
     
     <item>
       <title>Xcode</title>
-      <link>/post/xcode/</link>
+      <link>www.kathrynlwhelan.com/post/xcode/</link>
       <pubDate>Sat, 13 Feb 2021 20:03:58 -0500</pubDate>
       
-      <guid>/post/xcode/</guid>
+      <guid>www.kathrynlwhelan.com/post/xcode/</guid>
       <description>Tips/ Tricks / Useful getting started notes</description>
     </item>
     
     <item>
       <title>Swift</title>
-      <link>/post/swift/</link>
+      <link>www.kathrynlwhelan.com/post/swift/</link>
       <pubDate>Fri, 12 Feb 2021 19:39:14 -0500</pubDate>
       
-      <guid>/post/swift/</guid>
+      <guid>www.kathrynlwhelan.com/post/swift/</guid>
       <description>Udemy &amp;ndash;&amp;gt; IOS &amp;amp; Swift - The Complete IOS App Development Bootcamp Checkout Github to see my completed work for this course</description>
     </item>
     
     <item>
       <title>Kotlin</title>
-      <link>/post/kotlin/</link>
+      <link>www.kathrynlwhelan.com/post/kotlin/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/kotlin/</guid>
+      <guid>www.kathrynlwhelan.com/post/kotlin/</guid>
       <description>Udemy &amp;ndash;&amp;gt; The Complete Android 10 &amp;amp; Development Masterclass Check out Github to see my completed work for this course</description>
     </item>
     

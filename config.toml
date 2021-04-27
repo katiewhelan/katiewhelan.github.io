@@ -1,4 +1,5 @@
-baseURL = "www.kathrynlwhelan.com"
+# baseURL = "https://kathrynlwhelan.com"
+baseURL = "katiewhelan.github.io"
 languageCode = "en-us"
 DefaultContentLanguage = "en-us"
 title = "Kathryn Whelan"
