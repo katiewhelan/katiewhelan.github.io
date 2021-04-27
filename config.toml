@@ -1,5 +1,6 @@
 # baseURL = "https://kathrynlwhelan.com"
 baseURL = "katiewhelan.github.io"
+publishDir = "docs"
 languageCode = "en-us"
 DefaultContentLanguage = "en-us"
 title = "Kathryn Whelan"
@@ -7,6 +8,7 @@ theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
+staticDir = "static"
 
 
 pygmentsUseClasses = true
