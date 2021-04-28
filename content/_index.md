@@ -19,9 +19,9 @@ This can be:
 # Hello!
 ***
 
-As I wrap up the [MSSE Program](https://cse.umn.edu/msse) at the University of Minnesota I am looking to make the move to mobile development. 
+As I wrap up the [MSSE Program](https://cse.umn.edu/msse) at the University of Minnesota I am looking to make the move to mobile development.
 
-Why Switch To Mobile
+<!-- Why Switch To Mobile
 + way of the future
 + how much often phones are Used
-+ want to have input in user interaction/design
++ want to have input in user interaction/design -->
