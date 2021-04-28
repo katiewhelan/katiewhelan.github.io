@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kathryn Whelan</title>
+    <link>https://katiewhelan.github.io/post/</link>
+    <description>Recent content in Posts on Kathryn Whelan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Apr 2021 20:03:58 -0500</lastBuildDate><atom:link href="https://katiewhelan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Core Data</title>
+      <link>https://katiewhelan.github.io/post/core-data/</link>
+      <pubDate>Thu, 01 Apr 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/core-data/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Code Reuse</title>
+      <link>https://katiewhelan.github.io/post/code-resuse/</link>
+      <pubDate>Mon, 29 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/code-resuse/</guid>
+      <description>&amp;ndash; What I ran into for this project, the different search sites</description>
+    </item>
+    
+    <item>
+      <title>TabBar</title>
+      <link>https://katiewhelan.github.io/post/tabbar/</link>
+      <pubDate>Sun, 28 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/tabbar/</guid>
+      <description>My application starts with a TabBar controller, once I got issue -- can programtaically add vc to navigation controller, build does not fail but can not see the buttons that are added documentation does not make it clear that you must start with tab controller</description>
+    </item>
+    
+    <item>
+      <title>Scroll View</title>
+      <link>https://katiewhelan.github.io/post/scroll-view/</link>
+      <pubDate>Tue, 23 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/scroll-view/</guid>
+      <description>  https://fluffy.es/scrollview-storyboard-xcode-11/ Screen shot the image about align Leading setting multiplier to 1 </description>
+    </item>
+    
+    <item>
+      <title>Firebase - Data Upload</title>
+      <link>https://katiewhelan.github.io/post/firbase-data-upload/</link>
+      <pubDate>Sat, 20 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/firbase-data-upload/</guid>
+      <description>Uploader on Github  One of the key components of my application is the ability to search collections of items.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Functions</title>
+      <link>https://katiewhelan.github.io/post/cloud-functions/</link>
+      <pubDate>Fri, 05 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/cloud-functions/</guid>
+      <description>firebase init Functions npm install algoliasearch firebase functions:config:set algolia.</description>
+    </item>
+    
+    <item>
+      <title>Forms with Stack View</title>
+      <link>https://katiewhelan.github.io/post/forms-with-stack-view/</link>
+      <pubDate>Thu, 04 Mar 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/forms-with-stack-view/</guid>
+      <description>  Use stack views instead of pinning each allowed me to create a reusable screen that dynamically can show and hide fields depending on if the field has information  </description>
+    </item>
+    
+    <item>
+      <title>Custom Alert</title>
+      <link>https://katiewhelan.github.io/post/custom-alert/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/custom-alert/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Algolia</title>
+      <link>https://katiewhelan.github.io/post/algolia/</link>
+      <pubDate>Fri, 26 Feb 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/algolia/</guid>
+      <description>Why &amp;ndash; Firebase could only search on first word</description>
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>https://katiewhelan.github.io/post/firebase/</link>
+      <pubDate>Sun, 21 Feb 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/firebase/</guid>
+      <description>  Since I had used firebase for several of the course tutorials I decided it would v Pros  Easy to set up Quickly integrated with IOS project  Cons  Need 3rd party for better searching capacity Can only search from start of string/li  </description>
+    </item>
+    
+    <item>
+      <title>SwiftUI</title>
+      <link>https://katiewhelan.github.io/post/swiftui/</link>
+      <pubDate>Thu, 18 Feb 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/swiftui/</guid>
+      <description>  Check out my work here Github  </description>
+    </item>
+    
+    <item>
+      <title>Design Tools</title>
+      <link>https://katiewhelan.github.io/post/design-tools/</link>
+      <pubDate>Mon, 15 Feb 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/design-tools/</guid>
+      <description>  Choosing Colors   Color Hunt   Creating Icons  App Icon Generator Canva  </description>
+    </item>
+    
+    <item>
+      <title>Swift</title>
+      <link>https://katiewhelan.github.io/post/swift/</link>
+      <pubDate>Fri, 12 Feb 2021 19:39:14 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/swift/</guid>
+      <description>Udemy &amp;ndash;&amp;gt; IOS &amp;amp; Swift - The Complete IOS App Development Bootcamp Checkout Github to see my completed work for this course</description>
+    </item>
+    
+    <item>
+      <title>Kotlin</title>
+      <link>https://katiewhelan.github.io/post/kotlin/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/kotlin/</guid>
+      <description>Udemy &amp;ndash;&amp;gt; The Complete Android 10 &amp;amp; Development Masterclass Check out Github to see my completed work for this course</description>
+    </item>
+    
+  </channel>
+</rss>

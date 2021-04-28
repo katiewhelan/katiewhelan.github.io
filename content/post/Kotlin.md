@@ -17,7 +17,6 @@ Check out [Github](https://github.com/katiewhelan/Kotlin) to see my completed wo
 {{< rawhtml >}}
 <p>This course had a great range of projects starting with the classic Hello World to a fully functioning "Trello" application.  Below are some screen shots of the working apps that I created. </p>
 <!-- <p>The biggest challenge for this course was that some of</p> -->
-<h3>
 <h3>"Trello" Boards Application</h3>
 <p>Login user, create, update and delete boards, assign boards to different users and add dates</p>
 <img src="/images/kotlin/Trello4.gif" class="gifImage" alt="Trelllo App Gif 1"/>

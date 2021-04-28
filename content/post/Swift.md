@@ -15,7 +15,7 @@ draft: false
 Checkout [Github](https://github.com/katiewhelan/Swift) to see my completed work for this course
 
 {{< rawhtml >}}
-<p>This course started out with the recreation of the <a href="https://en.wikipedia.org/wiki/I_Am_Rich">"I am Rich"</a> App, a text adventure app, a tip calculator, a weather application, a To Do List and many more. </p>
+<p>This course started out with a single screen application by recreating the  <a href="https://en.wikipedia.org/wiki/I_Am_Rich">"I am Rich"</a> App, a text adventure app, a tip calculator, a weather application, a To Do List and many more. </p>
 
 
 
