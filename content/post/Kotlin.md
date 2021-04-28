@@ -19,9 +19,11 @@ Check out [Github](https://github.com/katiewhelan/Kotlin) to see my completed wo
 <!-- <p>The biggest challenge for this course was that some of</p> -->
 <h3>"Trello" Boards Application</h3>
 <p>Login user, create, update and delete boards, assign boards to different users and add dates</p>
-<img src="/images/kotlin/Trello4.gif" class="gifImage" alt="Trelllo App Gif 1"/>
-<img src="/images/kotlin/Trello2.gif" class="gifImage" alt="Trelllo App Gif 3"/>
-<img src="/images/kotlin/Trello5.gif" class="gifImage" alt="Trelllo App Gif 2"/>
+<div class="container space-around">
+  <img src="/images/kotlin/Trello4.gif" class="gifImage" alt="Trelllo App Gif 1"/>
+  <img src="/images/kotlin/Trello2.gif" class="gifImage" alt="Trelllo App Gif 3"/>
+  <img src="/images/kotlin/Trello5.gif" class="gifImage" alt="Trelllo App Gif 2"/>
+</div>
 <h3>7 Minute Workout App </h3>
 <p>Count down timer for each exercise and rest in between, a BMI calculator in metric and standard</p>
 <img src="/images/kotlin/7Minute.gif" class="centergif" alt="7 minute Workout App Gif"/>
