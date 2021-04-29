@@ -44,9 +44,35 @@ iframe.center {
     border-radius: 10%;
     width: 170px;
     height: 345px;
-    display: block;
+    /* display: block; */
     margin-left: auto;
     margin-right: auto;
+  }
+  .resume {
+    font: 12px Helvetica, Sans-Serif;
+      line-height: 20px;
+    }
+      .hide {
+        display: none;
+      }
+      dd.expand{
+        width: 650px;
+        float: none;
+      }
+  }
+}
+@media (max-width: 750px){
+  .resume {
+    font: 12px Helvetica, Sans-Serif;
+      line-height: 20px;
+    }
+      .hide {
+        display: none;
+      }
+      dd.expand{
+        width: 680px;
+        float: none;
+      }
   }
 }
 </style>

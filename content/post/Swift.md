@@ -9,27 +9,21 @@ draft: false
 {{< /rawhtml >}}
 
 ***
-#### [Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/) --> IOS & Swift - The Complete IOS App Development Bootcamp
+### IOS & Swift - The Complete IOS App Development Bootcamp on [Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
 
-Checkout [Github](https://github.com/katiewhelan/Swift) to see my completed work for this course
+#### Checkout [Github](https://github.com/katiewhelan/IOSProjectWork) to see my completed work for this course
 
 {{< rawhtml >}}
-<p>This course started out with a single screen application by recreating the  <a href="https://en.wikipedia.org/wiki/I_Am_Rich">"I am Rich"</a> App, a text adventure app, a tip calculator, a weather application, a To Do List and many more. </p>
-
-
-
-<!-- https://www.udemy.com/course/ios-13-app-development-bootcamp/ -->
-
-<!-- https://www.appbrewery.co/p/ios12-course-resources/ -->
+<p>This course started out with a single screen application by recreating the <a href="https://en.wikipedia.org/wiki/I_Am_Rich">"I am Rich"</a> App, a text adventure app, a tip calculator, a weather application, a To Do List and many more. </p>
 
 <h3>Weather App</h3>
-<p>Allow and use location services to get current weather, or search weather by city</p>
+<p>Use location services to get current weatheror search weather by city using the openWeather API.</p>
 <img src="/images/swift/Climate4.gif" class="centergif" alt="Climate App"/>
 <h3>Tip Calculator</h3>
-<p>Easly split the total bill with tip included</p>
+<p>Easly split the total bill with tip included for any number of guests.</p>
 <img src="/images/swift/Tip.gif" class="centergif" alt"Tip App">
 <h3>Choose Your Adventure</h3>
-<p>Classic text adventure App</p>
+<p>Text adventure Application that changes the story based on user selection.</p>
 <img src="/images/swift/Adventure.gif" alt="Choose your own adventure app" class="centergif">
 {{< /rawhtml >}}
