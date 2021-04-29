@@ -35,7 +35,7 @@ iframe.center {
   justify-content: space-around;
 }
 
-@media (max-width: 500px) {
+/* @media (max-width: 500px) {
   .resume {
     font: 12px Helvetica, Sans-Serif;
       line-height: 20px;
@@ -47,7 +47,7 @@ iframe.center {
         width: 650px;
         float: none;
       }
-  }
+  } */
 
 @media (max-width: 700px){
   .resume {
@@ -72,7 +72,7 @@ iframe.center {
         display: none;
       }
       dd.expand{
-        width: 450px;
+        width: 500px;
         float: none;
       }
   }
