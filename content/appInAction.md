@@ -8,7 +8,7 @@ author = "Kathryn Whelan"
 {{< /rawhtml >}}
 #### App in Action
 ***
-Check out the code on [Github](https://github.com/katiewhelan)
+Check out the code on [Github](https://github.com/katiewhelan/Collections)
 {{< rawhtml >}}
 <h3>User Login</h3>
 <img src="/images/swift/collect/Start3.gif" class="centergif" alt"App Login Page">
