@@ -19,9 +19,15 @@ This can be:
 # Hello!
 ***
 
-As I wrap up the [MSSE Program](https://cse.umn.edu/msse) at the University of Minnesota I am looking to make the move to mobile development.
+{{< rawhtml >}}
+<p>I am a software engineer looking to transfer to mobile development.  I am completing the <a href="https://cse.umn.edu/msse">MSSE</a> Program at the University of Minnesota this May! In Octoer 2015 I completed <a href="https://www.primeacademy.io/">Prime Digital Academy</a></p>
+<br />
+<h3>Education :</h3>
 
-<!-- Why Switch To Mobile
-+ way of the future
-+ how much often phones are Used
-+ want to have input in user interaction/design -->
+<h4>M.S. Software Engineering, University of Minnesota</h4>
+<h4>B.S. Industrial Engineering, North Dakota State University>/h4>
+<h4>Prime Digital Academy</h4>
+
+
+
+{{< /rawhtml >}}

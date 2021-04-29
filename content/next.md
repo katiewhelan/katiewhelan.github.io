@@ -12,7 +12,7 @@ author = "Kathryn Whelan"
 <style>
 
 </style>
-<p style="font-size:20px">As a life long learner I am always looking to my next project</p>
+<p style="font-size:20px">As a life long learner I am always looking to my next project! </p>
 <h3>New App Features</h3>
   <ul>
     <li style="margin-bottom:10px">
@@ -22,10 +22,13 @@ author = "Kathryn Whelan"
       Adding an API call to <a href="https://www.themoviedb.org/">The Movie Database</a>
     </li>
   </ul>
-<h3>Other Programs</h3>
+<h3>Other Projects</h3>
   <ul>
       <li style="margin-bottom:10px">
         Working through <a href="https://www.theodinproject.com/">The Odin Project</a>
+      </li>
+      <li style="margin-bottom:10px">
+      Working with the <a href="https://developer.spotify.com/documentation/web-api/">Spotify</a> API to store liked songs
       </li>
   </ul>
 {{< /rawhtml >}}

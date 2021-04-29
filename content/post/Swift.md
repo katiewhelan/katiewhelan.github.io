@@ -18,7 +18,7 @@ draft: false
 <p>This course started out with a single screen application by recreating the <a href="https://en.wikipedia.org/wiki/I_Am_Rich">"I am Rich"</a> App, a text adventure app, a tip calculator, a weather application, a To Do List and many more. </p>
 
 <h3>Weather App</h3>
-<p>Use location services to get current weatheror search weather by city using the openWeather API.</p>
+<p>Use location services to get current weather or search weather by city using the openWeather API.</p>
 <img src="/images/swift/Climate4.gif" class="centergif" alt="Climate App"/>
 <h3>Tip Calculator</h3>
 <p>Easly split the total bill with tip included for any number of guests.</p>
