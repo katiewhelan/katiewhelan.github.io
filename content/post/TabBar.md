@@ -9,20 +9,14 @@ draft: false
 
 ***
 {{< rawhtml >}}
-<p>My application starts with a TabBar controller, once I got
 
-issue --
-can programtaically add vc to navigation controller, build does not fail
-but can not see the buttons that are added
+<p>One of the core components of my application was the tabbar controller to allow the user to switch from the collections section to the search functionality. I struggled to get this functionality workign due to the minor detail that to add buttkons to the tab bar you could not use a view controller but rather needed to use a tabbar controller.  I was able to add buttons programtaically to the tabar and build without errors however the buttons did not appear. </p>
 
-documentation does not make it clear that you must start with tab controller</p>
+<img src="/images/swift/collect/TabController.gif" class="centergif">
 
 
 
-<img src="/images/swift/collect/tabbar.png" alt="App Screenshot" class="centergif">
-
-
-<p>This Youtube tutorial was great tool in understanding how the tabBar controllers and view controllers work together</p>
+<p>This Youtube tutorial was great tool in understanding how the tabBar controllers and view controllers work together and finally allowed me to get the functionality I wanted for my app.</p>
 <br />
 <iframe width="300" height="200" class="center" src="https://www.youtube.com/embed/Nx3qPQ_qOFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}

@@ -31,7 +31,7 @@
       <pubDate>Sun, 28 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/tabbar/</guid>
-      <description>My application starts with a TabBar controller, once I got issue -- can programtaically add vc to navigation controller, build does not fail but can not see the buttons that are added documentation does not make it clear that you must start with tab controller</description>
+      <description>One of the core components of my application was the tabbar controller to allow the user to switch from the collections section to the search functionality.</description>
     </item>
     
     <item>
@@ -71,12 +71,12 @@
     </item>
     
     <item>
-      <title>Forms with Stack View</title>
+      <title>Forms Using a Stack View</title>
       <link>https://katiewhelan.github.io/post/forms-with-stack-view/</link>
       <pubDate>Thu, 04 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/forms-with-stack-view/</guid>
-      <description>  Use stack views instead of pinning each allowed me to create a reusable screen that dynamically can show and hide fields depending on if the field has information  </description>
+      <description>Use stack views instead of pinning each allowed me to create a reusable screen that dynamically shows and hides fields depending on if the field has information.</description>
     </item>
     
     <item>
@@ -103,7 +103,7 @@
       <pubDate>Sun, 21 Feb 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/firebase/</guid>
-      <description>  Since I had used firebase for several of the course tutorials I decided it would v Pros  Easy to set up Quickly integrated with IOS project  Cons  Need 3rd party for better searching capacity Can only search from start of string/li  </description>
+      <description>Since I used firebase for a few of the course tutorials I decided I would stick with it for my app.</description>
     </item>
     
     <item>
