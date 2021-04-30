@@ -20,7 +20,7 @@ This can be:
 ***
 
 {{< rawhtml >}}
-<p>I am a software engineer looking to transfer to mobile development.  I am completing the <a href="https://cse.umn.edu/msse">MSSE</a> Program at the University of Minnesota this May! In Octoer 2015 I completed <a href="https://www.primeacademy.io/">Prime Digital Academy</a></p>
+<p>I am a software engineer looking to transfer to mobile development.  I am completing the <a href="https://cse.umn.edu/msse">MSSE</a> Program at the University of Minnesota this May! In October 2015 I completed <a href="https://www.primeacademy.io/">Prime Digital Academy</a></p>
 <br />
 <h3>Education :</h3>
 

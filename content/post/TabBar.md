@@ -15,6 +15,8 @@ draft: false
 <img src="/images/swift/collect/TabController.gif" class="centergif">
 
 <p>This Youtube tutorial was great tool in understanding how the tabBar controllers and view controllers work together and finally allowed me to get the functionality I wanted for my app.</p>
+
+https://stackoverflow.com/questions/35106022/adding-buttons-to-toolbar-programmatically-in-swift
 <br />
 <iframe width="300" height="200" class="center" src="https://www.youtube.com/embed/Nx3qPQ_qOFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}

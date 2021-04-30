@@ -40,7 +40,7 @@ iframe.center {
   justify-content: space-around;
 }
 
-/* @media (max-width: 500px) {
+@media (max-width: 500px) {
   .resume {
     font: 12px Helvetica, Sans-Serif;
       line-height: 20px;
@@ -49,10 +49,27 @@ iframe.center {
         display: none;
       }
       dd.expand{
-        width: 650px;
+        width: 480px;
         float: none;
       }
-  } */
+
+      .container {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      img.gifImage {
+        border-radius: 10%;
+        display: block;
+        width: 170px;
+        height: 345px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+
+  }
 
 @media (max-width: 700px){
   .resume {
@@ -77,8 +94,22 @@ iframe.center {
         display: none;
       }
       dd.expand{
-        width: 400px;
+        width: 370px;
         float: none;
+      }
+      .container {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      img.gifImage {
+        border-radius: 10%;
+        display: block;
+        width: 170px;
+        height: 345px;
+        margin-left: auto;
+        margin-right: auto;
       }
   }
 

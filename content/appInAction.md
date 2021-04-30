@@ -6,7 +6,7 @@ author = "Kathryn Whelan"
 {{< rawhtml >}}
 <br />
 {{< /rawhtml >}}
-#### App in Action
+# App in Action
 ***
 Check out the code on [Github](https://github.com/katiewhelan/Collections)
 {{< rawhtml >}}
