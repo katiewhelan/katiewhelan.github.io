@@ -14,18 +14,18 @@ draft: false
 Uploader on <a href="https://github.com/katiewhelan/firebaseUploader">Github</a>
 <br/>
 
-<p>One of the key components of my application is the ability to search collections of items. My application has the ability to add data directly however I did not wish to do this for every single item. I found a couple of tutorials on how to upload data from csv files to firebase that were extremely useful.  
+<p>One of the key components of my application is the ability to search collections of items. My application has the ability to add data directly however I did not wish to do this for every single item. I found a couple of tutorials on how to upload data from CSV files to firebase that were extremely useful.  
 <br/>
 
 
 <h4>Step 1 - Gather your Data</h4>
 <li class="addHeight">Create an excel spread sheet with the first column named "objectId"</li>
-<li class="addHeight">Make sure this matches the name in the uploader.js exactly/li>
+<li class="addHeight">Make sure this matches the name in the uploader.js file exactly/li>
 <li class="addHeight">Empty rows will cause errors as will empty objefctId fields being empty</li>
 <li class="addHeight">Export your spreadsheet to csv</li>
 
 <h4>Step 2 - Format your Data</h4>
-<li class="addHeight">Export your csv to JSON</li>
+<li class="addHeight">Export your CSV to JSON</li>
 <li class="addHeight">Use something like <a href="https://csvjson.com/csv2json">CSVtoJson</a></li>
 <li class="addHeight">Place your json file in the "file" folder, the name of your json file will be the name of the Firebase Collection</li>
 
@@ -43,7 +43,7 @@ Uploader on <a href="https://github.com/katiewhelan/firebaseUploader">Github</a>
 
 <h4>Tricks/Tips/Errors</h4>
 <li class="addHeight">Remove your json from the "files" folder after running so you don't duplicate data</li>
-<li style="margin-bottom:10px">if you run into the error below delete .DS_store in the "files" " folder</li>
+<li style="margin-bottom:10px">If you run into the error below delete .DS_store in the "files" folder</li>
 <img src="/images/jsonUploader.png">
 
 <br />
@@ -54,6 +54,7 @@ Uploader on <a href="https://github.com/katiewhelan/firebaseUploader">Github</a>
 <a href="https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5">Medium - How to Upload Data to Firebase</a> was a great resource </p>
 <br/>
 <br/>
+<p>This YouTube video walks you through all the steps</p>
 <!-- https://www.youtube.com/watch?v=Qg2_VFFcAI8 -->
 <iframe width="350" height="200" class="center" src="https://www.youtube.com/embed/Qg2_VFFcAI8" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

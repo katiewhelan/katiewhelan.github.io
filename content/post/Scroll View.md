@@ -14,5 +14,5 @@ draft: false
 
 https://fluffy.es/scrollview-storyboard-xcode-11/
 
-Screen shot the image about align Leading setting multiplier to 1
+<!-- Screen shot the image about align Leading setting multiplier to 1 -->
 {{< /rawhtml >}}

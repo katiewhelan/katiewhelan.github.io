@@ -1,7 +1,7 @@
 ---
 title: "Core Data"
 date: 2021-04-01T20:03:58-05:00
-draft: false
+draft: true
 ---
 {{< rawhtml >}}
 <br />

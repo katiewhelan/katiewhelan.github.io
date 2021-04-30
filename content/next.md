@@ -21,12 +21,19 @@ author = "Kathryn Whelan"
     <li style="margin-bottom:10px">
       Adding an API call to <a href="https://www.themoviedb.org/">The Movie Database</a>
     </li>
+      <li style="margin-bottom:10px">
+<a href"https://www.hackingwithswift.com/read/28/4/touch-to-activate-touch-id-face-id-and-localauthentication">Adding Face ID</li>
+
   </ul>
 <h3>Other Projects</h3>
   <ul>
       <li style="margin-bottom:10px">
         Working through <a href="https://www.theodinproject.com/">The Odin Project</a>
       </li>
+      <li style="margin-bottom:10px">
+<a src="https://fullstackopen.com/en/about/">Fullstack Open></a></li>
+
+        <li style="margin-bottom:10px">Write a node script to export all digital media file names on NAS to CSV file.</li>
       <li style="margin-bottom:10px">
       Working with the <a href="https://developer.spotify.com/documentation/web-api/">Spotify</a> API to store liked songs
       </li>

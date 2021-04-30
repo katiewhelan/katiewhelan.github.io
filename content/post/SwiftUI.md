@@ -15,3 +15,6 @@ Check out my work here <a href="https://github.com/katiewhelan/IOSProjectWork/tr
 <br/>
 <img src="/images/swift/SwiftUI.png" width ="175" height="355" class="centergif">
 {{< /rawhtml >}}
+
+
+<a href="https://stackoverflow.com/questions/56505692/how-to-resize-image-with-swiftui">How To size the an image</a>

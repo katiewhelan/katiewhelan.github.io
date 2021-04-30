@@ -21,4 +21,8 @@ Check out the code on [Github](https://github.com/katiewhelan/Collections)
 <h3>Update Item</h3>
 <img src="/images/swift/collect/Update2.gif" class="centergif" alt"App Login Page">
 
+<h3>Link To External Site</h3>
+<img src="/images/swift/collect/Link.gif" class="centergif" alt"App Login Page">
+
+
 {{< /rawhtml >}}

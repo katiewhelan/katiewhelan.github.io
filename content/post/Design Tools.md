@@ -21,8 +21,8 @@ draft: false
 <li class="addHeight"><a href="https://appicon.co/">App Icon Generator</a></li>
 <li class="addHeight"><a href="https://www.canva.com/">Canva</a></li>
 </ul>
-
-
+<br/>
+<img src="/images/swift/collect/AppIcon.png"width="200" height="200" class="center">
 
 
 

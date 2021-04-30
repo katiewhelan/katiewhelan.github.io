@@ -9,12 +9,12 @@ draft: false
 
 ***
 {{< rawhtml >}}
+ <p>To add new collection I added an custom alert, that allows the user to type in a Collection Name and Collection Type.</p
+
+ <img src="/images/swift/collect/Alert.png" class="centergif">
 
 
-<img src="/images/swift/collect/Alert.png" class="centergif">
-
-
-<!-- https://www.youtube.com/watch?v=NP7H_LjTZGw -->
+<!-- https://learnappmaking.com/uialertcontroller-alerts-swift-how-to/ -->
 
 <iframe width="350" height="200" class="center" src="https://www.youtube.com/embed/NP7H_LjTZGw" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}

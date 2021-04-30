@@ -19,6 +19,11 @@ img.centergif {
   margin-left: auto;
   margin-right: auto;
 }
+img.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 li.addHeight {
   margin-bottom: 10px;

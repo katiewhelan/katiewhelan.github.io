@@ -10,11 +10,9 @@ draft: false
 ***
 {{< rawhtml >}}
 
-<p>One of the core components of my application was the tabbar controller to allow the user to switch from the collections section to the search functionality. I struggled to get this functionality workign due to the minor detail that to add buttkons to the tab bar you could not use a view controller but rather needed to use a tabbar controller.  I was able to add buttons programtaically to the tabar and build without errors however the buttons did not appear. </p>
+<p>One of the core components of my application was the tab-bar controller to allow the user to switch from the collections section to the search functionality. I struggled to get this functionality working due to the minor detail that to add buttons to the tab bar you could not use a view controller but rather needed to use a tab-bar controller as the base. I was able to add buttons programmatically to the tab-bar and build without errors however the buttons did not appear. </p>
 
 <img src="/images/swift/collect/TabController.gif" class="centergif">
-
-
 
 <p>This Youtube tutorial was great tool in understanding how the tabBar controllers and view controllers work together and finally allowed me to get the functionality I wanted for my app.</p>
 <br />

@@ -18,7 +18,7 @@ After completing the courses on Kotlin and Swift I developed my own app that all
 
 ### _Top 3 Lessons_
 1. Commit, Commit, Commit
-2.
+2. Know your GIT
 3.
 
 

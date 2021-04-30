@@ -12,10 +12,17 @@ draft: false
 Why -- Firebase could only search on first word
 
 What it added
-  -Sorting
+  -Filtering
+  https://github.com/algolia/algolia-swift-demo
 
 How it went adding / using
--- https://www.algolia.com/doc/api-reference/api-methods/search/
+-- https://www.algolia.com/doc/api-reference/api-methods/search
+
+<!-- LInke to example code -->
+https://github.com/algolia/instantsearch-ios-examples
+
+<!-- Shows media example -->
+https://www.algolia.com/doc/guides/building-search-ui/resources/demos/ios/#media
 Breaking down the example movie app --> add link
 
 Uploading data
@@ -24,11 +31,7 @@ Uploading data
 
  -- Creating cloud functions
 
-Why I removed
--- To much for the project
 
-What I chose instead
--- core data
 
 //This could be a 2nd post about updating
 https://rsfarias.medium.com/how-to-set-up-firestore-and-algolia-319fcf2c0d37

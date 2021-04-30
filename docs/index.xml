@@ -6,18 +6,45 @@
     <description>Recent content on Kathryn Whelan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 20:03:58 -0500</lastBuildDate><atom:link href="https://katiewhelan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 20:03:58 -0500</lastBuildDate><atom:link href="https://katiewhelan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Core Data</title>
-      <link>https://katiewhelan.github.io/post/core-data/</link>
-      <pubDate>Thu, 01 Apr 2021 20:03:58 -0500</pubDate>
+      <title>Github Pages and Actions</title>
+      <link>https://katiewhelan.github.io/post/githubactions/</link>
+      <pubDate>Sun, 25 Apr 2021 20:03:58 -0500</pubDate>
       
-      <guid>https://katiewhelan.github.io/post/core-data/</guid>
+      <guid>https://katiewhelan.github.io/post/githubactions/</guid>
+      <description>  Blog Post 1 Blog Post 2 Hugo Documentation </description>
+    </item>
+    
+    <item>
+      <title>Take and Store Photos</title>
+      <link>https://katiewhelan.github.io/post/camera/</link>
+      <pubDate>Thu, 15 Apr 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/camera/</guid>
+      <description>          </description>
+    </item>
+    
+    <item>
+      <title>Keyboard Placement</title>
+      <link>https://katiewhelan.github.io/post/keyboard/</link>
+      <pubDate>Sat, 10 Apr 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/keyboard/</guid>
       <description>  </description>
     </item>
     
     <item>
-      <title>Code Reuse</title>
+      <title>Hugo</title>
+      <link>https://katiewhelan.github.io/post/hugo/</link>
+      <pubDate>Mon, 05 Apr 2021 20:03:58 -0500</pubDate>
+      
+      <guid>https://katiewhelan.github.io/post/hugo/</guid>
+      <description>&amp;ndash; Markdown &amp;ndash; vidoes on understanding structure &amp;ndash;shortcodes &amp;ndash; getting html into markdown</description>
+    </item>
+    
+    <item>
+      <title>Project Refactor</title>
       <link>https://katiewhelan.github.io/post/code-resuse/</link>
       <pubDate>Mon, 29 Mar 2021 20:03:58 -0500</pubDate>
       
@@ -31,16 +58,7 @@
       <pubDate>Sun, 28 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/tabbar/</guid>
-      <description>One of the core components of my application was the tabbar controller to allow the user to switch from the collections section to the search functionality.</description>
-    </item>
-    
-    <item>
-      <title>Github Pages and Actions</title>
-      <link>https://katiewhelan.github.io/post/ci%5Ccd-with-github/</link>
-      <pubDate>Thu, 25 Mar 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/ci%5Ccd-with-github/</guid>
-      <description>Future &amp;ndash; Set up this site to push updates when edited</description>
+      <description>One of the core components of my application was the tab-bar controller to allow the user to switch from the collections section to the search functionality.</description>
     </item>
     
     <item>
@@ -49,7 +67,7 @@
       <pubDate>Tue, 23 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/scroll-view/</guid>
-      <description>  https://fluffy.es/scrollview-storyboard-xcode-11/ Screen shot the image about align Leading setting multiplier to 1 </description>
+      <description>  https://fluffy.es/scrollview-storyboard-xcode-11/ </description>
     </item>
     
     <item>
@@ -85,7 +103,7 @@
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://katiewhelan.github.io/post/custom-alert/</guid>
-      <description>   </description>
+      <description>To add new collection I added an custom alert, that allows the user to type in a Collection Name and Collection Type.</description>
     </item>
     
     <item>
@@ -112,7 +130,7 @@
       <pubDate>Thu, 18 Feb 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/swiftui/</guid>
-      <description>  Trying out SwiftUI Check out my work here Github  </description>
+      <description>  Trying out SwiftUI Check out my work here Github  How To size the an image</description>
     </item>
     
     <item>
@@ -121,7 +139,7 @@
       <pubDate>Mon, 15 Feb 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/design-tools/</guid>
-      <description>  Choosing Colors   Color Hunt   Creating Icons  App Icon Generator Canva  </description>
+      <description>  Choosing Colors   Color Hunt   Creating Icons  App Icon Generator Canva   </description>
     </item>
     
     <item>
@@ -130,7 +148,7 @@
       <pubDate>Fri, 12 Feb 2021 19:39:14 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/swift/</guid>
-      <description>IOS &amp;amp; Swift - The Complete IOS App Development Bootcamp on Udemy Checkout Github to see my completed work for this course This course started out with a single screen application by recreating the &#34;</description>
+      <description>IOS &amp;amp; Swift - The Complete IOS App Development Bootcamp on Udemy Checkout Github to see my completed work for this course This course started out by recreating the single page app &#34;</description>
     </item>
     
     <item>
@@ -148,7 +166,7 @@
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://katiewhelan.github.io/appinaction/</guid>
-      <description> App in Action  Check out the code on Github User Login Search Specific Collection Add a Collection Search All Items Update Item </description>
+      <description> App in Action  Check out the code on Github User Login Search Specific Collection Add a Collection Search All Items Update Item Link To External Site </description>
     </item>
     
     <item>
