@@ -26,8 +26,8 @@ Looking For Mobile Development Opportunities
         
         
         <link rel="stylesheet"
-        href="/custom.min.8bd9e822ba769ec07a32eb78cb78f8876d0eb43b68472c522ed1f2feefa5de29.css"
-        integrity="sha256-i9noIrp2nsB6Mut4y3j4h20OtDtoRyxSLtHy/u&#43;l3ik="
+        href="/custom.min.de880e7b8e9a7edd39edd17618b0174c2647debe9217f5decc38718a08b4c28f.css"
+        integrity="sha256-3ogOe46aft057dF2GLAXTCZH3r6SF/XezDhxigi0wo8="
         crossorigin="anonymous"
         media="screen" />
     
@@ -66,7 +66,7 @@ Looking For Mobile Development Opportunities
 <meta name="twitter:image" content="https://katiewhelan.github.io/images/site-feature-image.png"/>
 
 <meta name="twitter:title" content="Algolia"/>
-<meta name="twitter:description" content="Why &ndash; Firebase could only search on first word"/>
+<meta name="twitter:description" content="I chose to add Algolia to my project after learning that I would not be able to do a full text search search with Firebase."/>
 
 
     
@@ -188,22 +188,34 @@ Looking For Mobile Development Opportunities
 
 
 <hr>
-<p>Why &ndash; Firebase could only search on first word</p>
-<p>What it added
--Filtering
-<a href="https://github.com/algolia/algolia-swift-demo">https://github.com/algolia/algolia-swift-demo</a></p>
-<p>How it went adding / using
-&ndash; <a href="https://www.algolia.com/doc/api-reference/api-methods/search">https://www.algolia.com/doc/api-reference/api-methods/search</a></p>
-<!-- raw HTML omitted -->
-<p><a href="https://github.com/algolia/instantsearch-ios-examples">https://github.com/algolia/instantsearch-ios-examples</a></p>
-<!-- raw HTML omitted -->
-<p><a href="https://www.algolia.com/doc/guides/building-search-ui/resources/demos/ios/#media">https://www.algolia.com/doc/guides/building-search-ui/resources/demos/ios/#media</a>
-Breaking down the example movie app &ndash;&gt; add link</p>
-<p>Uploading data</p>
-<p>&ndash; Tutorial here</p>
-<p>&ndash; Creating cloud functions</p>
-<p>//This could be a 2nd post about updating
-<a href="https://rsfarias.medium.com/how-to-set-up-firestore-and-algolia-319fcf2c0d37">https://rsfarias.medium.com/how-to-set-up-firestore-and-algolia-319fcf2c0d37</a></p>
+
+
+<p> I chose to add Algolia to my project after learning that I would not be able to do a <a href="https://firebase.google.com/docs/firestore/solutions/search">full text search</a> search with Firebase.</p>
+
+
+<p> This Demo from <a href="https://www.algolia.com/doc/guides/building-search-ui/resources/demos/ios/#media"> Algolia</a> was exactly what I needed:</p>
+<br/>
+<img src="/images/swift/AlgoliaDemo.gif" height="350" width="200" class="centergif">
+<p class="imageTag">Example Demo from Algolia documentation<p/>
+
+
+
+<p> Although Algolia had plenty of good documentation it was hard to set up the functionality needed for this application without over engineering. I started by downloading the <a href="https://github.com/algolia/instantsearch-ios-examples">demo</a> example. Algolia's documentation on basic <a href="https://www.algolia.com/doc/api-reference/api-methods/search/">search</a> functionality was a good starting point but this post on <a href="https://rsfarias.medium.com/how-to-set-up-firestore-and-algolia-319fcf2c0d37">Medium</a> was what helped me to finally get Algolia working with my data.  Returning the data from Algolia was fairly straight forward however working with the JSON to the display the data was more difficult  The last part of the article above walked through this step by step.  
+</p>
+
+<p>I set up example data in Algolia for testing, after I was able to return the data I needed to set up cloud functions so changes made to my Firebase records would automatically update to Algolia. Check out my post on <a href="/post/cloud-functions/">Cloud Functions</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
         <div class="post-footer">
             <div class="info">

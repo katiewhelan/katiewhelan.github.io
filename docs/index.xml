@@ -112,7 +112,7 @@
       <pubDate>Fri, 26 Feb 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/algolia/</guid>
-      <description>Why &amp;ndash; Firebase could only search on first word</description>
+      <description>I chose to add Algolia to my project after learning that I would not be able to do a full text search search with Firebase.</description>
     </item>
     
     <item>
