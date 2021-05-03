@@ -94,7 +94,7 @@
       <pubDate>Thu, 04 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/forms-with-stack-view/</guid>
-      <description>Use stack views instead of pinning each allowed me to create a reusable screen that dynamically shows and hides fields depending on if the field has information.</description>
+      <description>My original form set up was static; all the fields were pinned.</description>
     </item>
     
     <item>
