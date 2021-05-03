@@ -85,7 +85,7 @@
       <pubDate>Fri, 05 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/cloud-functions/</guid>
-      <description>firebase init Functions npm install algoliasearch firebase functions:config:set algolia.</description>
+      <description>After using test data in Algolia to make sure results were retuning properly I set up Cloud Functions to trigger when itmes are added, updated or deleted to the Firestore collection.</description>
     </item>
     
     <item>
