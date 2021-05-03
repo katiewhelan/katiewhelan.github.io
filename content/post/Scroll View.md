@@ -16,10 +16,10 @@ draft: false
 <br />
 
 
-<p> Here is a link to the <a href="https://fluffy.es/scrollview-storyboard-xcode-11/">ScrollView Tutorial</a></p>
-<p> This was the step that was different from other tutorials.</p>
+<p> Here is a link to the <a href="https://fluffy.es/scrollview-storyboard-xcode-11/">ScrollView</a> tutorial. This was the step that was different from other tutorials.</p>
 
 <img src="/images/swift/collect/ScrollViewTrick.png" width="250" height="300" class = "center">
+<p class="imageTag">Screenshot from the tutorial that was a game-changer</p>
 
 
 {{< /rawhtml >}}

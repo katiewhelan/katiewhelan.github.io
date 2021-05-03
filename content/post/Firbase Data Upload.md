@@ -9,14 +9,11 @@ draft: false
 
 ***
 {{< rawhtml >}}
-
-
-Uploader on <a href="https://github.com/katiewhelan/firebaseUploader">Github</a>
+View the uploader files on <a href="https://github.com/katiewhelan/firebaseUploader">Github</a>
 <br/>
 
 <p>One of the key components of my application is the ability to search collections of items. My application has the ability to add data directly however I did not wish to do this for every single item. I found a couple of tutorials on how to upload data from CSV files to firebase that were extremely useful.  
 <br/>
-
 
 <h4>Step 1 - Gather your Data</h4>
 <li class="addHeight">Create an excel spread sheet with the first column named "objectId"</li>
@@ -44,23 +41,16 @@ Uploader on <a href="https://github.com/katiewhelan/firebaseUploader">Github</a>
 <h4>Tricks/Tips/Errors</h4>
 <li class="addHeight">Remove your json from the "files" folder after running so you don't duplicate data</li>
 <li style="margin-bottom:10px">If you run into the error below delete .DS_store in the "files" folder</li>
+ <br />
 <img src="/images/jsonUploader.png">
 
 <br />
 <br />
 
-<h4>Sources</h4>
-<p> This article on
-<a href="https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5">Medium - How to Upload Data to Firebase</a> was a great resource </p>
+<h3>Sources</h3>
+<p> This article on Medium -
+<a href="https://medium.com/@devesu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5">How to Upload Data to Firebase</a> was a great resource or if you prefer to watch a video one walks you through all the steps</p>
 <br/>
-<br/>
-<p>This YouTube video walks you through all the steps</p>
-<!-- https://www.youtube.com/watch?v=Qg2_VFFcAI8 -->
+
 <iframe width="350" height="200" class="center" src="https://www.youtube.com/embed/Qg2_VFFcAI8" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-
 {{< /rawhtml >}}
