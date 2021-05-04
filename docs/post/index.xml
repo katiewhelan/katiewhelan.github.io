@@ -44,12 +44,12 @@
     </item>
     
     <item>
-      <title>Project Refactor</title>
+      <title>Refactoring</title>
       <link>https://katiewhelan.github.io/post/code-resuse/</link>
       <pubDate>Mon, 29 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/code-resuse/</guid>
-      <description>&amp;ndash; What I ran into for this project, the different search sites</description>
+      <description>Originally I had multiple collection types of Books, Movies and Dvds.</description>
     </item>
     
     <item>
