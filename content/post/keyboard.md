@@ -13,13 +13,13 @@ draft: false
 <img src="/images/swift/collect/Update2.gif" class="centergif">
 <br />
 <br />
-<p>The tutorials below helped to understand how to get the height of the keyboard and how to move the location of the view up by the height of the keyboard. The tutorials are a bit older. The code
+<p>The tutorials below helped me to understand how to get the height of the keyboard and how to move the location of the view up by the height of the keyboard. The tutorials are a bit older. The code
 <br />
 <br/>
  <code>NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillChange(notification:)), name:NSNotification.Name.UIKeyboardWillShow, object: nil) </code>
 <br/>
 <br/>
-has changed to</p>
+has changed as follows.</p>
 <br/>
 <img src="/images/swift/collect/KeyboardUpdate.png" class="center">
 <br/>

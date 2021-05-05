@@ -9,7 +9,7 @@ draft: false
 
 ***
 {{< rawhtml >}}
-<p>When an image is not available for an item, or a user would like to add a custom image they can take a photo from their phone.  The image will be uploaded to Firebase storage for retrieval the next time the item is pulled up</p>
+<p>When an image is not available for an item, or a user would like to add a custom image, they can take a photo from their phone.  The image will be uploaded to Firebase storage for retrieval the next time the item is pulled up.</p>
 <br />
 <div class="container space-around">
   <img src="/images/swift/collect/Camera2.PNG" class="gifImage"/>
