@@ -9,7 +9,7 @@ draft: false
 
 ***
 {{< rawhtml >}}
- <p>To add new collection I added an custom alert, that allows the user to type in a Collection Name and Collection Type.</p>
+ <p>To add a new collection I added a custom alert that allows the user to type in a collection name and collection type.</p>
 
  <img src="/images/swift/collect/AlertAdd.gif" class="centergif">
 <br />

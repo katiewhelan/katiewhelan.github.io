@@ -53,12 +53,12 @@
     </item>
     
     <item>
-      <title>TabBar</title>
+      <title>Tab Bar</title>
       <link>https://katiewhelan.github.io/post/tabbar/</link>
       <pubDate>Sun, 28 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/tabbar/</guid>
-      <description>One of the core components of my application was the tab-bar controller to allow the user to switch from the collections section to the search functionality.</description>
+      <description>One of the core components of my application was the tab bar controller to allow the user to switch from the collections section to the search functionality.</description>
     </item>
     
     <item>
@@ -85,7 +85,7 @@
       <pubDate>Fri, 05 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/cloud-functions/</guid>
-      <description>After using test data in Algolia to make sure results were retuning properly I set up Cloud Functions to trigger when itmes are added, updated or deleted to the Firestore collection.</description>
+      <description>After using test data in Algolia to make sure results were retuning properly I set up Cloud Functions to trigger when items are added, updated or deleted to the Firestore collection.</description>
     </item>
     
     <item>
@@ -94,7 +94,7 @@
       <pubDate>Thu, 04 Mar 2021 20:03:58 -0500</pubDate>
       
       <guid>https://katiewhelan.github.io/post/forms-with-stack-view/</guid>
-      <description>My original form set up was static; all the fields were pinned.</description>
+      <description>My original form setup was static; all the fields were pinned.</description>
     </item>
     
     <item>
@@ -103,7 +103,7 @@
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://katiewhelan.github.io/post/custom-alert/</guid>
-      <description>To add new collection I added an custom alert, that allows the user to type in a Collection Name and Collection Type.</description>
+      <description>To add a new collection I added a custom alert that allows the user to type in a collection name and collection type.</description>
     </item>
     
     <item>
@@ -157,7 +157,7 @@
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://katiewhelan.github.io/post/kotlin/</guid>
-      <description>The Complete Android 10 &amp;amp; Development Masterclass on Udemy Check out Github to see my completed work for this course This course had a great range of projects starting with the classic Hello World to a fully functioning Trello application.</description>
+      <description>The Complete Android 10 &amp;amp; Development Masterclass on Udemy Check out Github to see my completed work for this course This course had a great range of projects from classic Hello World to a fully functioning Trello application.</description>
     </item>
     
   </channel>

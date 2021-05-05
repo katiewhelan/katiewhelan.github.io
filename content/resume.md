@@ -57,7 +57,7 @@ author = "Kathryn Whelan"
                 <h2><span>Software Developer I - June 2018</span></h2>
                 <ul>
                     <li> Create new functionality that improves users experience and allows for ease of use</li>  <li>Contribute to successful and timely completion of individual and team tasks</li>
-                    <li>Refactoring code to to improve legacy systems and simplify future maintenance</li>
+                    <li>Refactoring code to improve legacy systems and simplify future maintenance</li>
                     <li>Technology used: C#, Visual Basic, Angular, React, SQL, Visual Studio, TFS</li>
                 </ul>
 
@@ -72,11 +72,11 @@ author = "Kathryn Whelan"
                     <li>Technology used: C#/.net, Angular, Knockout, SQL, Visual Studio, Jira, TFS, Birst</li>
                 </ul>
                 <h2>Pentair</h2>
-                <h2><span>Quality Technician November 2014 - June 2015</span></h2>
+                <h2><span>Quality Technician - November 2014 - June 2015</span></h2>
                 <ul>
                     <li>Used a variety of measurement tools to assess quality and consistency of product based on company standards and compliance guidelines</li>
                     <li>Investigated and resolved production line issues</li>
-                    <li>Inspected product in all stages of production, including in-process and final manufactured parts according to customer specifications</li>
+                    <li>Inspected product in all stages of production, including in-process and final manufactured parts, according to customer specifications</li>
                 </ul>
             </dd>
 
@@ -95,9 +95,9 @@ author = "Kathryn Whelan"
             <h2>Technovation</h2>
             <h2><span>Mentor 2017</span></h2>
             <ul>
-                <li>Provide guidance and mentorship to 5th/6th grade girls in an after school technology program</li>
-                <li>Teach computational thinking, app design, and basic programming skills</li>
-                <li>Provide feedback to teams on final product, including pitch and demo videos, presentation slides and live pitch performance</li>
+                <li>Provided guidance and mentorship to 5th/6th grade girls in an after school technology program</li>
+                <li>Taught computational thinking, app design, and basic programming skills</li>
+                <li>Provided feedback to teams on final product, including pitch and demo videos, presentation slides and live pitch performance</li>
             </ul>
             </dd>
 

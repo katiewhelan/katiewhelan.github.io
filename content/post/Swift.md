@@ -24,6 +24,6 @@ draft: false
 <p>Easily split the total bill with tip included for any number of guests.</p>
 <img src="/images/swift/Tip.gif" class="centergif" alt"Tip App">
 <h3>Choose Your Adventure</h3>
-<p>Text adventure Application that changes the story based on user selection.</p>
+<p>Text adventure application that changes the story based on user selection.</p>
 <img src="/images/swift/Adventure.gif" alt="Choose your own adventure app" class="centergif">
 {{< /rawhtml >}}

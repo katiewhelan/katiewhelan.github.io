@@ -194,7 +194,7 @@ Looking For Mobile Development Opportunities
 </ul>
 <p>This is just a single example of how switching from multiple collection types to a single collection type made my code reusable and more extensible to adding other collection types.  All over the code switch statements were checking the collection type to decide a specific code path for the item type, now there is a single code path and adding a new item will not change that.</p>
 
- <p>The original code had to make multiple query calls since each collection type was stored in a separate firebase collection. With this code adding a new item type would mean adding a new query and another case to the switch statement. </p>
+ <p>The original code had to make multiple query calls since each collection type was stored in a separate Firebase collection. With this code adding a new item type would mean adding a new query and another case to the switch statement. </p>
  <img src="/images/swift/collect/OriginalCode.png" class="center" width="650" height="550">
  <br/>
  <p>This updated code only searches a single query since all items are stored in a single Firebase collection. A collection can now include multiple types which allows users more options when creating a new collection. </p>
