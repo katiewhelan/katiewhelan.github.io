@@ -16,10 +16,9 @@ To get exposure to Kotlin and Swift I completed two different tutorials through 
 ### Part 2 - Creating an IOS App
 After completing the courses on Kotlin and Swift I developed an app that allows the user to track collections of objects. I chose to complete this app in Swift as I own an Iphone. I have used different apps like IMDB or GoodReads to track movies and books but wanted a singular location where I could access and track multiple types of items.
 
-### _Top 3 Lessons_
+### _Top Lessons_
 1. Commit, Commit, Commit
 2. Know your GIT
-3.
 
 
 ### _New Skills_
@@ -27,4 +26,4 @@ After completing the courses on Kotlin and Swift I developed an app that allows 
 - Using Google Cloud Functions
 - Hugo - Using a Static Site Generator
 - Running a Node Script to upload data to Firebase from a CSV
-- Algolia - create a better search experience
+- Algolia - creating a better search experience

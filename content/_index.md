@@ -2,17 +2,6 @@
 author = "Kathryn Whelan"
 +++
 
-<!--
-This file is left intentionally empty by default to be backward compatible with initial theme setup.
-
-Although the theme has advanced a little bit and it now allows to specify the content on the main page (even if the list of posts/articles is not intended).
-This can be:
-- with the list of posts/articles (default: `mainSections = ["post"]) or
-- without the list of posts/articles (by setting `mainSections = [""]`)
-
-
--->
-
 {{< rawhtml >}}
 <br />
 {{< /rawhtml >}}
@@ -20,14 +9,12 @@ This can be:
 ***
 
 {{< rawhtml >}}
-<p>I am a software engineer looking to transfer to mobile development.  I am completing the <a href="https://cse.umn.edu/msse">MSSE</a> Program at the University of Minnesota this May! In October 2015 I completed <a href="https://www.primeacademy.io/">Prime Digital Academy</a></p>
-<br />
-<h3>Education :</h3>
+<br/>
+<p>I am a software developer with expertise in C#/.net, Javascript, Swift, and Kotlin. After five years of working in [put something here that summarizes what you did in the last two jobs, such as back-end design, improving the user experience, I don't know the right words lol], I'm looking forward to applying my skills to mobile development. This spring I will earn a <a href="https://cse.umn.edu/msse">Master's of Science in Software Engineering</a> from the University of Minnesota, which compliments and builds on my training at <a href="https://www.primeacademy.io/">Prime Digital Academy</a> (2015). I am based in Minneapolis, MN and on weekends I enjoy exploring the many bike trails and parks in the region.</p>
+<br/>
+<h2>Education</h2>
 
 <h4>M.S. Software Engineering, University of Minnesota</h4>
 <h4>B.S. Industrial Engineering, North Dakota State University</h4>
 <h4>Prime Digital Academy</h4>
-
-
-
 {{< /rawhtml >}}
