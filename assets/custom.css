@@ -5,6 +5,13 @@ img.gifImage234 {
   width: 170px;
   height: 345px;
 }
+a {
+  color: #3071a6;
+
+}
+a:hover {
+  color: #3071a6;
+}
 img.gifImage {
   border-radius: 10%;
   margin: 20px 20px 10px 0px;
