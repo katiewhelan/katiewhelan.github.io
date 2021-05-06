@@ -9,6 +9,7 @@ draft: true
 - https://www.norbauer.com/rails-consulting/notes/git-revert-reset-a-single-file
 - https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
 - https://devconnected.com/how-to-unstage-files-on-git/
+- https://www.cloudbees.com/blog/git-detached-head
 - https://colorhunt.co/
 - https://appicon.co/#image-sets
 - https://fonts.google.com/
