@@ -30,5 +30,5 @@ draft: false
 <img src="/images/PassFilePath.png" width="800" height="200" class="center">
 
 <p>The <a href="
-https://www.npmjs.com/package/uuid">UUID</a> Package generates a unique id for each item, however this could be replaced with any form unique id.</p>
+https://www.npmjs.com/package/uuid">UUID</a> Package generates a unique id for each item, however this could be replaced with any form of a unique id.</p>
 {{< /rawhtml >}}
