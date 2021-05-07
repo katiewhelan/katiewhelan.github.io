@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html  dir="ltr" lang="en-us" data-theme="dark"><head>
-    <title> Kathryn Whelan | index </title>
+    <title> Kathryn Whelan | File Names To CSV </title>
 
     
     <meta charset="utf-8"><meta name="generator" content="Hugo 0.82.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
@@ -42,10 +42,9 @@ Looking For Mobile Development Opportunities
     <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
 
-    <link rel="canonical" href="/tags/index/">
+    <link rel="canonical" href="/post/filenamestocsv/">
 
     
-    <link rel="alternate" type="application/rss+xml" href="/tags/index/index.xml" title="Kathryn Whelan" />
     
     
     
@@ -66,10 +65,8 @@ Looking For Mobile Development Opportunities
     <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://katiewhelan.github.io/images/site-feature-image.png"/>
 
-<meta name="twitter:title" content="index"/>
-<meta name="twitter:description" content="Software Engineer
-Looking For Mobile Development Opportunities
-"/>
+<meta name="twitter:title" content="File Names To CSV"/>
+<meta name="twitter:description" content="One major part of this project has been how to collect all the data and format it to create items and collections."/>
 
 
     
@@ -163,23 +160,65 @@ Looking For Mobile Development Opportunities
 
     <div class="autopagerize_page_element">
         <div class="content">
-    <div class="archive  animated fadeInDown ">
-        <ul class="list-with-title">
+    <div class="post  animated fadeInDown ">
+        <div class="post-content">
             
-                <div class="listing-title">2021</div>
+            <div class="post-title">
+                <h3>File Names To CSV</h3>
                 
-                    <ul class="listing">
-                        <div class="listing-item">
-                            <div class="listing-post"><a href="/post/" title="Posts">Posts</a>
-                                <div class="post-time"><span class="date"> May 5 
-                                                                            </span></div>
-                            </div>
-                        </div>
-                    </ul>
+                    <div class="info">
+                        <em class="fas fa-calendar-day"></em>
+                        <span class="date"> Wed, May 5, 2021 
+                                           </span>
+                        <em class="fas fa-stopwatch"></em>
+                        <span class="reading-time"></span>
+                    </div>
                 
+            </div>
+
             
-        </ul>
+
+<br />
+
+
+<hr>
+
+
+<p> One major part of this project has been how to collect all the data and format it to create items and collections.  This <a href="https://github.com/katiewhelan/fileNameToCSV">Node script</a> I created  parses file names to CSV format. This will allow me to create records for all digital items. This script will add a unique id, a title, and a boolean value for own for each file within the folder.</p>
+
+<h3>Steps</h3>
+<ul>
+<li>run: npm install</li>
+<li>run: node FileNameParser.js files</li>
+<li>out.csv is the output</li>
+</ul>
+
+<p>To add more columns simply add on to header and add the values within the foreach statement. </p>
+<img src="/images/header.png" width="600" height="150" class="center">
+<p>Here is an example of the output. </p>
+
+<img src="/images/CSVFileOutput.png" width="600" height="150" class="center">
+<!-- <img src="/images/ForEach.png"> -->
+
+<p>This <a href="https://stackoverflow.com/questions/4351521/how-do-i-pass-command-line-arguments-to-a-node-js-program">stackoverflow</a> was great at showing multiple options on how to pass arguments to the Node script</p>
+
+<img src="/images/PassFilePath.png" width="800" height="200" class="center">
+
+<p>The <a href="
+https://www.npmjs.com/package/uuid">UUID</a> Package generates a unique id for each item, however this could be replaced with any form unique id.</p>
+
+
+</div>
+        <div class="post-footer">
+            <div class="info">
+                
+                
+            </div>
+        </div>
+
+        
     </div>
+
 
         </div>
     </div>
