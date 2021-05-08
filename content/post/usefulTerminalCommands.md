@@ -1,6 +1,6 @@
 ---
 title: "Useful Terminal Commands"
-date: 2021-05-07T20:03:58-05:00
+date: 2021-05-06T20:03:58-05:00
 draft: true
 ---
 ### Open with specific program
