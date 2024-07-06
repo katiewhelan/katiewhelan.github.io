@@ -1,7 +1,7 @@
 +++
 
 description = "Resume"
-draft = "true"
+draft = "false"
 date = "2019-02-28"
 author = "Kathryn Whelan"
 
@@ -42,7 +42,7 @@ author = "Kathryn Whelan"
             <dd class="expand">
                 <h4>University of Minnesota</h4>
                 <h5>Masters of Software Engineering <span>May 2021</span></h5>
-                <h4>Prime Digital Academy</h4> <br/>
+                <h4>Prime Digital Academy</h4>
                 <h5><span>October 2015</span></h5>
                 <h4>North Dakota State University</h4>
                 <h5>Bachelors of Science Industrial Engineering <span> December 2012</span></h5>
@@ -60,7 +60,7 @@ author = "Kathryn Whelan"
                     <li> Wrote unit tests to cover new code, maintaining stability in the system</li>
                     <li> Worked with operators to gain understanding of new requirements</li>
                     <li> Worked with team on an initiative to migrate data from Raven to SQL database</li>
-                    <li> When on call, handled incidents in a timely manner to keep production moving at the facility</li>
+                    <li> When on call, handled incidents in a timely manner to keep production moving</li>
                     <li> Integrate new systems move over old code base</li>
                     <li> Worked with team to create and achieve annual goals to reduce tech debt through testing</li>
                     <li> Part of a multi team initiative to update a service from Vue 1.5 to 2</li>

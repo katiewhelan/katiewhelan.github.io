@@ -3,9 +3,6 @@ description = "App in Action"
 date = "2019-04-28"
 author = "Kathryn Whelan"
 +++
-{{< rawhtml >}}
-<br />
-{{< /rawhtml >}}
 # App in Action
 ***
 Check out the code on [Github](https://github.com/katiewhelan/Collections)

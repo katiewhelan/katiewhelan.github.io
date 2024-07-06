@@ -32,8 +32,8 @@ customJs = []
 mainSections = []
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
-displayMode = "dark"
-disableThemeSwitcher = true
+displayMode = "light"
+disableThemeSwitcher = false
 postSectionName = "blog"
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"

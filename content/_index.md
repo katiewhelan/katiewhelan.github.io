@@ -2,9 +2,6 @@
 author = "Kathryn Whelan"
 +++
 
-{{< rawhtml >}}
-<br />
-{{< /rawhtml >}}
 # Hello!
 ***
 

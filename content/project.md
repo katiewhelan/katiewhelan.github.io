@@ -1,12 +1,8 @@
 +++
 description = "Project"
 date = "2019-02-28"
-
 author = "Kathryn Whelan"
 +++
-{{< rawhtml >}}
-<br />
-{{< /rawhtml >}}
 # Independent Study
 *****
 
