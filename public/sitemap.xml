@@ -2,85 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.kathrynlwhelan.com/</loc>
-    <lastmod>2021-04-01T20:03:58-05:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2021-05-07T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/core-data/</loc>
-    <lastmod>2021-04-01T20:03:58-05:00</lastmod>
+    <loc>http://localhost:1313/tags/index/</loc>
+    <lastmod>2021-05-07T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/</loc>
-    <lastmod>2021-04-01T20:03:58-05:00</lastmod>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2021-05-07T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/code-resuse/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2021-05-07T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/filenamestocsv/</loc>
+    <lastmod>2021-05-05T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/githubactions/</loc>
+    <lastmod>2021-04-25T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/camera/</loc>
+    <lastmod>2021-04-15T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/keyboard/</loc>
+    <lastmod>2021-04-10T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/hugo/</loc>
+    <lastmod>2021-04-05T20:03:58-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/code-resuse/</loc>
     <lastmod>2021-03-29T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/tabbar/</loc>
+    <loc>http://localhost:1313/post/tabbar/</loc>
     <lastmod>2021-03-28T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/docker_gke_azure_aws/</loc>
-    <lastmod>2021-03-27T20:03:58-05:00</lastmod>
-  </url><url>
-    <loc>www.kathrynlwhelan.com/post/hugo/</loc>
-    <lastmod>2021-03-26T20:03:58-05:00</lastmod>
-  </url><url>
-    <loc>www.kathrynlwhelan.com/post/ci%5Ccd-with-github/</loc>
-    <lastmod>2021-03-25T20:03:58-05:00</lastmod>
-  </url><url>
-    <loc>www.kathrynlwhelan.com/post/scroll-view/</loc>
+    <loc>http://localhost:1313/post/scroll-view/</loc>
     <lastmod>2021-03-23T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/firbase-data-upload/</loc>
+    <loc>http://localhost:1313/post/firbase-data-upload/</loc>
     <lastmod>2021-03-20T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/cloud-functions/</loc>
+    <loc>http://localhost:1313/post/cloud-functions/</loc>
     <lastmod>2021-03-05T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/forms-with-stack-view/</loc>
+    <loc>http://localhost:1313/post/forms-with-stack-view/</loc>
     <lastmod>2021-03-04T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/custom-alert/</loc>
+    <loc>http://localhost:1313/post/custom-alert/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/algolia/</loc>
+    <loc>http://localhost:1313/post/algolia/</loc>
     <lastmod>2021-02-26T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/package-managers/</loc>
-    <lastmod>2021-02-23T20:03:58-05:00</lastmod>
-  </url><url>
-    <loc>www.kathrynlwhelan.com/post/firebase/</loc>
+    <loc>http://localhost:1313/post/firebase/</loc>
     <lastmod>2021-02-21T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/swiftui/</loc>
+    <loc>http://localhost:1313/post/swiftui/</loc>
     <lastmod>2021-02-18T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/design-tools/</loc>
+    <loc>http://localhost:1313/post/design-tools/</loc>
     <lastmod>2021-02-15T20:03:58-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/xcode/</loc>
-    <lastmod>2021-02-13T20:03:58-05:00</lastmod>
-  </url><url>
-    <loc>www.kathrynlwhelan.com/post/swift/</loc>
+    <loc>http://localhost:1313/post/swift/</loc>
     <lastmod>2021-02-12T19:39:14-05:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/post/kotlin/</loc>
+    <loc>http://localhost:1313/post/kotlin/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/appinaction/</loc>
+    <loc>http://localhost:1313/appinaction/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/next/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/next/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.kathrynlwhelan.com/project/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>www.kathrynlwhelan.com/resume/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>www.kathrynlwhelan.com/categories/</loc>
-  </url><url>
-    <loc>www.kathrynlwhelan.com/tags/index/</loc>
-  </url><url>
-    <loc>www.kathrynlwhelan.com/tags/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

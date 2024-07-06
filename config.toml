@@ -1,6 +1,5 @@
 # baseURL = "https://kathrynlwhelan.com"
 baseURL = "https://katiewhelan.github.io"
-publishDir = "docs"
 languageCode = "en-us"
 DefaultContentLanguage = "en-us"
 title = "Kathryn Whelan"
