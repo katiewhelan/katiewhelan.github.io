@@ -16,12 +16,12 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "Kathryn Whelan"
+title = "Katie Whelan"
 author = "Kathryn Whelan"
 #copyright = "2020-2021"
 description = """
 Software Engineer
-Looking For Mobile Development Opportunities
+Looking For Development Opportunities
 """
 profilePicture = "images/profile.jpg"
 keywords = ""

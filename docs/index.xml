@@ -2,208 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kathryn Whelan</title>
-    <link>https://katiewhelan.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Kathryn Whelan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 May 2021 20:03:58 -0500</lastBuildDate><atom:link href="https://katiewhelan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 May 2021 20:03:58 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>File Names To CSV</title>
-      <link>https://katiewhelan.github.io/post/filenamestocsv/</link>
+      <link>http://localhost:1313/post/filenamestocsv/</link>
       <pubDate>Wed, 05 May 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/filenamestocsv/</guid>
+      <guid>http://localhost:1313/post/filenamestocsv/</guid>
       <description>One major part of this project has been how to collect all the data and format it to create items and collections.</description>
     </item>
-    
     <item>
       <title>Github Pages and Actions</title>
-      <link>https://katiewhelan.github.io/post/githubactions/</link>
+      <link>http://localhost:1313/post/githubactions/</link>
       <pubDate>Sun, 25 Apr 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/githubactions/</guid>
+      <guid>http://localhost:1313/post/githubactions/</guid>
       <description>Github actions along with Github Pages has made it so simple to update my site as I continue to create and update content.</description>
     </item>
-    
     <item>
       <title>Take and Store Photos</title>
-      <link>https://katiewhelan.github.io/post/camera/</link>
+      <link>http://localhost:1313/post/camera/</link>
       <pubDate>Thu, 15 Apr 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/camera/</guid>
+      <guid>http://localhost:1313/post/camera/</guid>
       <description>When an image is not available for an item, or a user would like to add a custom image, they can take a photo from their phone.</description>
     </item>
-    
     <item>
       <title>Keyboard Placement</title>
-      <link>https://katiewhelan.github.io/post/keyboard/</link>
+      <link>http://localhost:1313/post/keyboard/</link>
       <pubDate>Sat, 10 Apr 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/keyboard/</guid>
+      <guid>http://localhost:1313/post/keyboard/</guid>
       <description>To improve the user experience on the edit page I wanted the fields to move up the height of the keyboard when the user selected a textfield at the bottom of the page.</description>
     </item>
-    
     <item>
       <title>Hugo</title>
-      <link>https://katiewhelan.github.io/post/hugo/</link>
+      <link>http://localhost:1313/post/hugo/</link>
       <pubDate>Mon, 05 Apr 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/hugo/</guid>
+      <guid>http://localhost:1313/post/hugo/</guid>
       <description>Setting up a basic site with Hugo and adding a theme was super fast, however as I add more content I have run into a few issues that I will address here.</description>
     </item>
-    
     <item>
       <title>Refactoring</title>
-      <link>https://katiewhelan.github.io/post/code-resuse/</link>
+      <link>http://localhost:1313/post/code-resuse/</link>
       <pubDate>Mon, 29 Mar 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/code-resuse/</guid>
+      <guid>http://localhost:1313/post/code-resuse/</guid>
       <description>Originally I had multiple collection types of Books, Movies and Dvds.</description>
     </item>
-    
     <item>
       <title>Tab Bar</title>
-      <link>https://katiewhelan.github.io/post/tabbar/</link>
+      <link>http://localhost:1313/post/tabbar/</link>
       <pubDate>Sun, 28 Mar 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/tabbar/</guid>
+      <guid>http://localhost:1313/post/tabbar/</guid>
       <description>One of the core components of my application was the tab bar controller to allow the user to switch from the collections section to the search functionality.</description>
     </item>
-    
     <item>
       <title>Scroll View</title>
-      <link>https://katiewhelan.github.io/post/scroll-view/</link>
+      <link>http://localhost:1313/post/scroll-view/</link>
       <pubDate>Tue, 23 Mar 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/scroll-view/</guid>
+      <guid>http://localhost:1313/post/scroll-view/</guid>
       <description>Getting the scrollview to work for me took multiple attempts.</description>
     </item>
-    
     <item>
       <title>Firebase - Data Upload</title>
-      <link>https://katiewhelan.github.io/post/firbase-data-upload/</link>
+      <link>http://localhost:1313/post/firbase-data-upload/</link>
       <pubDate>Sat, 20 Mar 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/firbase-data-upload/</guid>
-      <description>View the uploader files on Github  One of the key components of my application is the ability to search collections of items.</description>
+      <guid>http://localhost:1313/post/firbase-data-upload/</guid>
+      <description>View the uploader files on Github One of the key components of my application is the ability to search collections of items.</description>
     </item>
-    
     <item>
       <title>Cloud Functions</title>
-      <link>https://katiewhelan.github.io/post/cloud-functions/</link>
+      <link>http://localhost:1313/post/cloud-functions/</link>
       <pubDate>Fri, 05 Mar 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/cloud-functions/</guid>
+      <guid>http://localhost:1313/post/cloud-functions/</guid>
       <description>After using test data in Algolia to make sure results were retuning properly I set up Cloud Functions to trigger when items are added, updated or deleted to the Firestore collection.</description>
     </item>
-    
     <item>
       <title>Forms Using a Stack View</title>
-      <link>https://katiewhelan.github.io/post/forms-with-stack-view/</link>
+      <link>http://localhost:1313/post/forms-with-stack-view/</link>
       <pubDate>Thu, 04 Mar 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/forms-with-stack-view/</guid>
+      <guid>http://localhost:1313/post/forms-with-stack-view/</guid>
       <description>My original form setup was static; all the fields were pinned.</description>
     </item>
-    
     <item>
       <title>Custom Alert</title>
-      <link>https://katiewhelan.github.io/post/custom-alert/</link>
+      <link>http://localhost:1313/post/custom-alert/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/custom-alert/</guid>
+      <guid>http://localhost:1313/post/custom-alert/</guid>
       <description>To add a new collection I added a custom alert that allows the user to type in a collection name and collection type.</description>
     </item>
-    
     <item>
       <title>Algolia</title>
-      <link>https://katiewhelan.github.io/post/algolia/</link>
+      <link>http://localhost:1313/post/algolia/</link>
       <pubDate>Fri, 26 Feb 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/algolia/</guid>
+      <guid>http://localhost:1313/post/algolia/</guid>
       <description>I chose to add Algolia to my project after learning that I would not be able to do a full text search search with Firebase.</description>
     </item>
-    
     <item>
       <title>Firebase</title>
-      <link>https://katiewhelan.github.io/post/firebase/</link>
+      <link>http://localhost:1313/post/firebase/</link>
       <pubDate>Sun, 21 Feb 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/firebase/</guid>
+      <guid>http://localhost:1313/post/firebase/</guid>
       <description>Since I used firebase for a few of the course tutorials I decided I would stick with it for my app.</description>
     </item>
-    
     <item>
       <title>SwiftUI</title>
-      <link>https://katiewhelan.github.io/post/swiftui/</link>
+      <link>http://localhost:1313/post/swiftui/</link>
       <pubDate>Thu, 18 Feb 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/swiftui/</guid>
+      <guid>http://localhost:1313/post/swiftui/</guid>
       <description>Through the Udemy tutorial I was able to try out SwiftUI.</description>
     </item>
-    
     <item>
       <title>Design Tools</title>
-      <link>https://katiewhelan.github.io/post/design-tools/</link>
+      <link>http://localhost:1313/post/design-tools/</link>
       <pubDate>Mon, 15 Feb 2021 20:03:58 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/design-tools/</guid>
-      <description>  Choosing Colors   Color Hunt   Creating Icons  App Icon Generator Canva   </description>
+      <guid>http://localhost:1313/post/design-tools/</guid>
+      <description> Choosing Colors Color Hunt Creating Icons App Icon Generator Canva </description>
     </item>
-    
     <item>
       <title>Swift</title>
-      <link>https://katiewhelan.github.io/post/swift/</link>
+      <link>http://localhost:1313/post/swift/</link>
       <pubDate>Fri, 12 Feb 2021 19:39:14 -0500</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/swift/</guid>
+      <guid>http://localhost:1313/post/swift/</guid>
       <description>The Complete IOS App Development Bootcamp on Udemy Checkout Github to see my completed work for this course This course started out by recreating the single page app &#34;</description>
     </item>
-    
     <item>
       <title>Kotlin</title>
-      <link>https://katiewhelan.github.io/post/kotlin/</link>
+      <link>http://localhost:1313/post/kotlin/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://katiewhelan.github.io/post/kotlin/</guid>
+      <guid>http://localhost:1313/post/kotlin/</guid>
       <description>The Complete Android 10 &amp;amp; Development Masterclass on Udemy Check out Github to see my completed work for this course This course had a great range of projects from classic Hello World to a fully functioning Trello application.</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://katiewhelan.github.io/appinaction/</link>
+      <link>http://localhost:1313/appinaction/</link>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://katiewhelan.github.io/appinaction/</guid>
-      <description> App in Action  Check out the code on Github User Login Search a Specific Collection Add a Collection Search All Items Update Item Link to External Site </description>
+      <guid>http://localhost:1313/appinaction/</guid>
+      <description> App in Action Check out the code on Github User Login </description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://katiewhelan.github.io/next/</link>
+      <link>http://localhost:1313/next/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://katiewhelan.github.io/next/</guid>
-      <description>What&amp;rsquo;s Next  As a lifelong learner I am always looking to my next project!</description>
+      <guid>http://localhost:1313/next/</guid>
+      <description>What&amp;rsquo;s Next As a lifelong learner I am always looking to my next project!</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://katiewhelan.github.io/project/</link>
+      <link>http://localhost:1313/project/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://katiewhelan.github.io/project/</guid>
-      <description>Independent Study  Part 1 - Learning Kotlin &amp;amp; Swift To get exposure to Kotlin and Swift I completed two different tutorials through Udemy.</description>
+      <guid>http://localhost:1313/project/</guid>
+      <description>Independent Study Part 1 - Learning Kotlin &amp;amp; Swift To get exposure to Kotlin and Swift I completed two different tutorials through Udemy.</description>
     </item>
-    
-    <item>
-      <title></title>
-      <link>https://katiewhelan.github.io/resume/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://katiewhelan.github.io/resume/</guid>
-      <description>* { margin: 0; padding: 0; } body { font: 14px Helvetica, Sans-Serif; line-height: 24px; background: url(images/noise.</description>
-    </item>
-    
   </channel>
 </rss>
