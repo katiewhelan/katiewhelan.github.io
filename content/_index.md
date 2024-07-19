@@ -7,7 +7,11 @@ author = "Kathryn Whelan"
 
 {{< rawhtml >}}
 <br/>
-<p>I am a software developer with expertise in C#/.net, Javascript, Swift, and Kotlin. After five years of working on back-end development and improving user experience, I'm looking forward to applying my skills to mobile development. This spring I will earn a <a href="https://cse.umn.edu/msse">Master's of Science in Software Engineering</a> from the University of Minnesota, which compliments and builds on my training at <a href="https://www.primeacademy.io/">Prime Digital Academy</a> (2015). I am based in Minneapolis, MN and on weekends I enjoy exploring the many bike trails and parks in the region.</p>
+<p>I am a software engineer and developer with expertise in C#/.net, Javascript, Vue, and SQL. Over the last eight years, I have advanced back-end development and user experience in various industries.
+
+I’m now seeking to apply these skills in a mission-driven environment that values community and inclusion. This is motivated, in part, by my experience co-leading company-wide DEI efforts and promoting computer science and STEM to girls and the public.
+
+When I am not at my computer, I am usually helping neighbors troubleshoot IT issues, exploring nature, or capturing the view through my <a href="https://www.kathrynwhelanphotography.com">camera lens</a>. </p>
 <br/>
 <h2>Education</h2>
 

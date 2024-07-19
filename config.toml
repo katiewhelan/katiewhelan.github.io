@@ -17,7 +17,7 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "Katie Whelan"
 author = "Kathryn Whelan"
-#copyright = "2020-2021"
+#copyright = "2024"
 description = """
 Software Engineer
 Looking For Development Opportunities
@@ -35,8 +35,6 @@ doNotLoadAnimations = false
 displayMode = "light"
 disableThemeSwitcher = false
 postSectionName = "blog"
-# Form Spree Contact Form
-#contactFormAction = "https://formspree.io/f/your-form-hash-here"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -63,30 +61,30 @@ url = "https://github.com/katiewhelan"
 
   [[menu.main]]
   name = "Project"
-  weight = 200
+  weight = 300
   identifier = "project"
   url = "/project/"
 
   [[menu.main]]
   name = "App in Action"
-  weight = 300
+  weight = 400
   identifier = "appInAction"
   url = "/appInAction/"
 
   [[menu.main]]
   name = "Blog"
-  weight = 400
+  weight = 500
   identifier = "blog"
   url = "/blog/"
 
   [[menu.main]]
   name = "What's Next"
-  weight = 500
+  weight = 600
   identifier = "next"
   url = "/next/"
 
   [[menu.main]]
   name = "Resume"
-  weight = 600
+  weight = 200
   identifier = "resume"
   url = "/resume/"
