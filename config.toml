@@ -66,12 +66,6 @@ url = "https://github.com/katiewhelan"
   url = "/project/"
 
   [[menu.main]]
-  name = "App in Action"
-  weight = 400
-  identifier = "appInAction"
-  url = "/appInAction/"
-
-  [[menu.main]]
   name = "Blog"
   weight = 500
   identifier = "blog"

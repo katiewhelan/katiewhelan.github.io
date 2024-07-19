@@ -23,3 +23,25 @@ After completing the courses on Kotlin and Swift I developed an app that allows 
 - Hugo - Using a Static Site Generator
 - Running a Node Script to upload data to Firebase from a CSV
 - Algolia - creating a better search experience
+
+
+# See the App in Action
+***
+Check out the code on [Github](https://github.com/katiewhelan/Collections)
+{{< rawhtml >}}
+<h3>User Login</h3>
+<img src="/images/swift/collect/Start3.gif" class="centergif" alt"App Login Page">
+<h3>Search a Specific Collection</h3>
+<img src="/images/swift/collect/SearchCollection3.gif" class="centergif" alt"App Login Page">
+<h3>Add a Collection</h3>
+<img src="/images/swift/collect/Alert.png" class="centergif" alt"App Login Page">
+<h3>Search All Items</h3>
+<img src="/images/swift/collect/SearchAll2.gif" class="centergif" alt"App Login Page">
+<h3>Update Item</h3>
+<img src="/images/swift/collect/Update2.gif" class="centergif" alt"App Login Page">
+
+<h3>Link to External Site</h3>
+<img src="/images/swift/collect/Link.gif" class="centergif" alt"App Login Page">
+
+
+{{< /rawhtml >}}
