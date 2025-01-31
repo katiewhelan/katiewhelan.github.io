@@ -52,6 +52,15 @@ author = "Kathryn Whelan"
 
             <dt class="hide">Experience</dt>
             <dd class="expand">
+                <h2>Block Portrait Studios</h2>
+                <h2><span>Associate Photographer - April 20224 - Present</span></h2> <br />
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li> </li>
+                </ul>
+           
                 <h2>Protolabs</h2>
                 <h2><span>Software Developer - August 2022 - March 2024</span></h2> <br />
                 <ul>
