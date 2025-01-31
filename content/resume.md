@@ -61,6 +61,7 @@ author = "Kathryn Whelan"
                     <li> </li>
                 </ul>
            
+                <h2>Block Portrait Studios</h2>
                 <h2>Protolabs</h2>
                 <h2><span>Software Developer - August 2022 - March 2024</span></h2> <br />
                 <ul>
