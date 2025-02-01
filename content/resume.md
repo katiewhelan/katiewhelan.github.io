@@ -80,7 +80,7 @@ Ability to work independently and collaborate in team settings for seamless exec
             <dt class="hide">Experience</dt>
             <dd class="expand">
                 <h2>Block Portrait Studios</h2>
-                <h2><span>Associate Photographer - April 20224 - Present</span></h2> <br />
+                <h2><span>Associate Photographer - April 2024/span></h2> <br />
                 <ul>
                     <li>Capture high-quality images for a variety of clients, including portraits, events, and product shoots</li>
                     <li>Coordinate and schedule photo shoots, ensuring all details are communicated to clients and team members</li>
