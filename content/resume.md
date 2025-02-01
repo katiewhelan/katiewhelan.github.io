@@ -37,6 +37,33 @@ author = "Kathryn Whelan"
 
 <body>
 
+Photography Experience
+
+<!-- Capture high-quality images for a variety of clients, including portraits, events, and product shoots
+Assist lead photographers with lighting, camera settings, and composition to achieve desired results
+Edit and retouch photos using software like Adobe Photoshop, Lightroom, and Capture One
+Maintain professional knowledge of current photography trends, techniques, and equipment
+Collaborate with clients to understand their vision and deliver images that meet or exceed expectations
+Handle equipment setup, including cameras, lighting, and other accessories, for shoots
+Help with location scouting and set design to enhance the visual aesthetic of photo shoots
+Manage photo storage, file organization, and backup systems to ensure efficient workflow
+Administrative & Organizational Support
+
+Coordinate and schedule photo shoots, ensuring all details are communicated to clients and team members
+Maintain client records, including contracts, invoices, and communication logs
+Handle customer inquiries and assist in the booking process for photography services
+Manage social media accounts and create posts to showcase photography work, increasing brand visibility
+Assist with marketing efforts, including email campaigns, website updates, and portfolio management
+Track and manage photography equipment inventory, ensuring timely maintenance and replacements
+Help with billing and invoicing, ensuring prompt payment collection from clients
+Maintain a clean and organized workspace, both in the studio and on-location, to optimize productivity
+Skills & Software
+
+Proficient in Adobe Creative Suite (Photoshop, Lightroom), Capture One, and Microsoft Office Suite
+Strong communication skills, both verbal and written, to interact with clients and team members
+Detail-oriented and able to handle multiple tasks in a fast-paced environment
+Ability to work independently and collaborate in team settings for seamless execution of projects -->
+
     <div class="resume" id="page-wrap">
             <dt class="hide">Education</dt>
             <dd class="expand">
@@ -55,13 +82,12 @@ author = "Kathryn Whelan"
                 <h2>Block Portrait Studios</h2>
                 <h2><span>Associate Photographer - April 20224 - Present</span></h2> <br />
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li> </li>
+                    <li>Capture high-quality images for a variety of clients, including portraits, events, and product shoots</li>
+                    <li>Coordinate and schedule photo shoots, ensuring all details are communicated to clients and team members</li>
+                    <li>Help with billing and invoicing, ensuring prompt payment collection from clients</li>
+                    <li>etail-oriented and able to handle multiple tasks in a fast-paced environment</li>
                 </ul>
            
-                <h2>Block Portrait Studios</h2>
                 <h2>Protolabs</h2>
                 <h2><span>Software Developer - August 2022 - March 2024</span></h2> <br />
                 <ul>
