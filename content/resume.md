@@ -84,8 +84,8 @@ Ability to work independently and collaborate in team settings for seamless exec
                 <ul>
                     <li>Capture high-quality images for a variety of clients, including portraits, events, and product shoots</li>
                     <li>Coordinate and schedule photo shoots, ensuring all details are communicated to clients and team members</li>
-                    <li>Help with billing and invoicing, ensuring prompt payment collection from clients</li>
-                    <li>etail-oriented and able to handle multiple tasks in a fast-paced environment</li>
+                    <li>Help with invoicing, ensuring prompt payment collection from clients</li>
+                    <li>Detail-oriented and able to handle multiple tasks in a fast-paced environment</li>
                 </ul>
            
                 <h2>Protolabs</h2>
