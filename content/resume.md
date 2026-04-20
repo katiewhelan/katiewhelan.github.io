@@ -20,7 +20,7 @@ author = "Kathryn Whelan"
 
         h1 { margin: 0 0 16px 0; padding: 0 0 16px 0; font-size: 42px; font-weight: bold; letter-spacing: -2px; border-bottom: 1px solid #999; }
         h2 { font-size: 18px; margin: 0 0 6px 0; position: relative; }
-        h2 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 14px; color: #999; font-weight: normal; }
+        h2 span { position: absolute; bottom: 10; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 14px; color: #999; font-weight: normal; }
         h5 { font-size: 13px; margin: 0 0 6px 0; position: relative; }
         h5 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 14px; color: #999; font-weight: normal; }
         p { margin: 0 0 16px 0; }
@@ -88,8 +88,8 @@ Ability to work independently and collaborate in team settings for seamless exec
 
             <dt class="hide">Experience</dt>
             <dd class="expand">
-                <h2>National Camera Exchange</h2><br />
-                <h2><span>Sales Associate | October 2024 - Present</span></h2> <br /><br />
+                <h2>National Camera Exchange</h2>
+                <h2><span>Sales Associate | October 2024 - Present</span></h2> <br />
                 <ul>
                     <li>Consult with customers to identify needs and recommend tailored technology solutions</li> 
                     <li>Provide hands-on training through individual sessions and group workshops, improving customer confidence and product adoption</li>
@@ -97,7 +97,7 @@ Ability to work independently and collaborate in team settings for seamless exec
                     <li>Drive sales and customer satisfaction by combining product knowledge with strong communication and service skills</li>
                 </ul>
 
-                <h2>Block Portrait Studios</h2> <br />
+                <h2>Block Portrait Studios</h2>
                 <h2><span>Associate Photographer/Account Manager | April 2024 - Present</span></h2> <br />
                 <ul>
                     <li>Capture high-quality images for a variety of clients, including portraits, events, and product shoots</li>
@@ -148,6 +148,7 @@ Ability to work independently and collaborate in team settings for seamless exec
                     <li>Contribute to successful and timely completion of individual and team tasks</li>
                     <li>Technology used: C#/.net, Angular, Knockout, SQL, Visual Studio, Jira, TFS, Birst</li>
                 </ul>
+
                 <h2>Pentair</h2>
                 <h2><span>Quality Technician | November 2014 - June 2015</span></h2>
                 <ul>
@@ -163,7 +164,7 @@ Ability to work independently and collaborate in team settings for seamless exec
             <dd class="expand">
 
             <h2>Hope For Tomorrow</h2>
-            <h2><span>2025,2026</span></h2><br />
+            <h2><span>2025,2026</span></h2> <br />
             <ul>
                 <li>Mentor an 8th-grade student, providing guidance on personal development and future planning</li>
                 <li>Lead discussions and activities focused on social skills, professional etiquette, and goal setting</li>
