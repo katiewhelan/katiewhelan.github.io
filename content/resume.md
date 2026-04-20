@@ -69,27 +69,52 @@ Ability to work independently and collaborate in team settings for seamless exec
             <dd class="expand">
                 <h4>University of Minnesota</h4>
                 <h5>Masters of Software Engineering <span>May 2021</span></h5>
-                <h4>Prime Digital Academy</h4>
-                <h5><span>October 2015</span></h5>
                 <h4>North Dakota State University</h4>
                 <h5>Bachelors of Science Industrial Engineering <span> December 2012</span></h5>
             </dd>
 
             <dd class="clear"></dd>
 
+            <dt class="hide">Skills</dt>
+            <dd class="expand">
+                <h4>Technical: C#, .NET, JavaScript, Vue, SQL, Angular, React</h4>
+                <h4>Tools: Visual Studio, Git, Jira, TFS, SonarQube, Google Workspace, Lightroom, Photoshop</h4>
+                <h4>Business: Customer Service, Sales, Client Communication, Project Coordination</h4>
+                <h4>Creative: Photography, Content Creation, Website Support</h4>
+            </dd>   
+
+            <dd class="clear"></dd>
+
             <dt class="hide">Experience</dt>
             <dd class="expand">
+                <h2>National Camera Exchange</h2>
+                <h2><span>Sales Associate | October 2024 - Present</span></h2> <br />
+                <ul>
+                    <li>Consult with customers to identify needs and recommend tailored technology solutions</li> 
+                    <li>Provide hands-on training through individual sessions and group workshops, improving customer confidence and product adoption</li>
+                    <li>Resolve technical issues with camera equipment, guiding customers through repair, replacement, or upgrade decisions</li>
+                    <li>Drive sales and customer satisfaction by combining product knowledge with strong communication and service skills</li>
+                </ul>
                 <h2>Block Portrait Studios</h2>
-                <h2><span>Associate Photographer - April 2024</span></h2> <br />
+                <h2><span>Associate Photographer/Account Manager | April 2024 - Present</span></h2> <br />
                 <ul>
                     <li>Capture high-quality images for a variety of clients, including portraits, events, and product shoots</li>
                     <li>Coordinate and schedule photo shoots, ensuring all details are communicated to clients and team members</li>
                     <li>Help with invoicing, ensuring prompt payment collection from clients</li>
                     <li>Detail-oriented and able to handle multiple tasks in a fast-paced environment</li>
                 </ul>
-           
+                <h2>Founder - Kathryn Whelan Photography</h2>
+                <h2><span>Self-Employed | 2025 – Present</span></h2>
+                <ul>
+                    <li>Provide technology support and troubleshooting for individuals and small businesses</li>
+                    <li>Assist with website setup, updates, and digital content management</li>
+                    <li>Deliver professional photography services for personal and commercial use</li>
+                    <li>Manage client relationships, scheduling, and project delivery</li>
+
+                </ul>
+
                 <h2>Protolabs</h2>
-                <h2><span>Software Developer - August 2022 - March 2024</span></h2> <br />
+                <h2><span>Software Developer | August 2022 - March 2024</span></h2> <br />
                 <ul>
                     <li> Added new functionality to a service that improved flow of products through the facility</li>
                     <li> Used SOLID coding principles to support and maintain codebase</li>
@@ -104,10 +129,8 @@ Ability to work independently and collaborate in team settings for seamless exec
                     <li> Skills : C#, Vue, Javascript, Sonarqube</li>
                 </ul>
 
-
                 <h2>C.H. Robinson</h2>
-                <h2><span>Software Developer II - August 2019</span></h2> <br />
-                <h2><span>Software Developer I - June 2018</span></h2>
+                <h2><span>Software Engineer II | June 2018 - Feb 2021</span></h2> <br />
                 <ul>
                     <li> Create new functionality that improves users experience and allows for ease of use</li>  <li>Contribute to successful and timely completion of individual and team tasks</li>
                     <li>Refactoring code to improve legacy systems and simplify future maintenance</li>
@@ -115,8 +138,7 @@ Ability to work independently and collaborate in team settings for seamless exec
                 </ul>
 
                 <h2>Imagetrend</h2>
-                <h2><span>Software Developer II - January 2018 - June 2018</span></h2> <br />
-                <h2><span>Software Developer I - February 2016</span></h2>
+                <h2><span>Software Developer II | February 2016 - June 2018</span></h2> <br />
                 <ul>
                     <li>Incorporate new subscriber modal into live data modeling application</li>
                     <li>Create menu page and routes for easy navigation of application by user</li>
@@ -125,7 +147,7 @@ Ability to work independently and collaborate in team settings for seamless exec
                     <li>Technology used: C#/.net, Angular, Knockout, SQL, Visual Studio, Jira, TFS, Birst</li>
                 </ul>
                 <h2>Pentair</h2>
-                <h2><span>Quality Technician - November 2014 - June 2015</span></h2>
+                <h2><span>Quality Technician | November 2014 - June 2015</span></h2>
                 <ul>
                     <li>Used a variety of measurement tools to assess quality and consistency of product based on company standards and compliance guidelines</li>
                     <li>Investigated and resolved production line issues</li>
@@ -137,6 +159,15 @@ Ability to work independently and collaborate in team settings for seamless exec
 
             <dt class="hide">Activities</dt>
             <dd class="expand">
+
+            <h2>Hope For Tomorrow</h2>
+            <h2><span>2025,2026</span></h2>
+            <ul>
+                <li>Mentor an 8th-grade student, providing guidance on personal development and future planning</li>
+                <li>Lead discussions and activities focused on social skills, professional etiquette, and goal setting</li>
+                <li>Support confidence-building and decision-making skills related to education and career pathways</li>
+                <li>Build consistent, supportive relationships encouraging growth, accountability, and long-term success’</li>
+            </ul>
 
             <h2>Hack the Gap</h2>
             <h2><span>Participant 2016, 2017, 2018</span></h2>
