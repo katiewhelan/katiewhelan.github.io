@@ -17,5 +17,4 @@ When I am not at my computer, I am usually helping neighbors troubleshoot IT iss
 
 <h4>M.S. Software Engineering, University of Minnesota</h4>
 <h4>B.S. Industrial Engineering, North Dakota State University</h4>
-<h4>Prime Digital Academy</h4>
 {{< /rawhtml >}}
