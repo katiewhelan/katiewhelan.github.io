@@ -88,9 +88,8 @@ Ability to work independently and collaborate in team settings for seamless exec
 
             <dt class="hide">Experience</dt>
             <dd class="expand">
-                <h2>National Camera Exchange</h2>
-                <h2><span>Sales Associate | October 2024 - Present</span></h2> <br />
-                <br />
+                <h2>National Camera Exchange</h2><br />
+                <h2><span>Sales Associate | October 2024 - Present</span></h2> <br /><br />
                 <ul>
                     <li>Consult with customers to identify needs and recommend tailored technology solutions</li> 
                     <li>Provide hands-on training through individual sessions and group workshops, improving customer confidence and product adoption</li>
@@ -98,7 +97,7 @@ Ability to work independently and collaborate in team settings for seamless exec
                     <li>Drive sales and customer satisfaction by combining product knowledge with strong communication and service skills</li>
                 </ul>
 
-                <h2>Block Portrait Studios</h2>
+                <h2>Block Portrait Studios</h2> <br />
                 <h2><span>Associate Photographer/Account Manager | April 2024 - Present</span></h2> <br />
                 <ul>
                     <li>Capture high-quality images for a variety of clients, including portraits, events, and product shoots</li>
@@ -113,7 +112,7 @@ Ability to work independently and collaborate in team settings for seamless exec
                     <li>Provide technology support and troubleshooting for individuals and small businesses</li>
                     <li>Assist with website setup, updates, and digital content management</li>
                     <li>Deliver professional photography services for personal and commercial use</li>
-                    <li>Manage client relationships, scheduling, and project delivery</li
+                    <li>Manage client relationships, scheduling, and project delivery</li>
                 </ul>
 
                 <h2>Protolabs</h2>
