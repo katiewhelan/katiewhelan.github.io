@@ -37,8 +37,6 @@ author = "Kathryn Whelan"
 
 <body>
 
-Photography Experience
-
 <!-- Capture high-quality images for a variety of clients, including portraits, events, and product shoots
 Assist lead photographers with lighting, camera settings, and composition to achieve desired results
 Edit and retouch photos using software like Adobe Photoshop, Lightroom, and Capture One
@@ -153,7 +151,7 @@ Ability to work independently and collaborate in team settings for seamless exec
                 <ul>
                     <li>Used a variety of measurement tools to assess quality and consistency of product based on company standards and compliance guidelines</li>
                     <li>Investigated and resolved production line issues</li>
-                    <li>Inspected product in all stages of production, including in-process and final manufactured parts, according to customer specifications</li>
+                    <li>Inspected product, including in-process and final manufactured parts, according to customer specifications</li>
                 </ul>
             </dd>
 
@@ -163,7 +161,7 @@ Ability to work independently and collaborate in team settings for seamless exec
             <dd class="expand">
 
             <h2>Hope For Tomorrow</h2>
-            <h2><span>2025, 2026</span></h2> <br />
+            <h2><span>Mentor 2025, 2026</span></h2> <br />
             <ul>
                 <li>Mentor an 8th-grade student, providing guidance on personal development and future planning</li>
                 <li>Lead discussions and activities focused on social skills, professional etiquette, and goal setting</li>
