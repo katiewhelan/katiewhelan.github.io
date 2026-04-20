@@ -84,7 +84,7 @@ Ability to work independently and collaborate in team settings for seamless exec
             </dd>   
 
             <dd class="clear"></dd>
-
+            <br/>
 
             <dt class="hide">Experience</dt>
             <dd class="expand">
@@ -128,7 +128,6 @@ Ability to work independently and collaborate in team settings for seamless exec
                     <li> Worked with team to create and achieve annual goals to reduce tech debt through testing</li>
                     <li> Part of a multi team initiative to update a service from Vue 1.5 to 2</li>
                     <li> Integrate, add and update endpoints connecting to multiple services</li>
-                    <li> Skills : C#, Vue, Javascript, Sonarqube</li>
                 </ul>
 
                 <h2>C.H. Robinson</h2>
@@ -150,7 +149,7 @@ Ability to work independently and collaborate in team settings for seamless exec
                 </ul>
 
                 <h2>Pentair</h2>
-                <h2><span>Quality Technician | November 2014 - June 2015</span></h2>
+                <h2><span>Quality Technician | November 2014 - June 2015</span></h2> <br />
                 <ul>
                     <li>Used a variety of measurement tools to assess quality and consistency of product based on company standards and compliance guidelines</li>
                     <li>Investigated and resolved production line issues</li>
@@ -164,7 +163,7 @@ Ability to work independently and collaborate in team settings for seamless exec
             <dd class="expand">
 
             <h2>Hope For Tomorrow</h2>
-            <h2><span>2025,2026</span></h2> <br />
+            <h2><span>2025, 2026</span></h2> <br />
             <ul>
                 <li>Mentor an 8th-grade student, providing guidance on personal development and future planning</li>
                 <li>Lead discussions and activities focused on social skills, professional etiquette, and goal setting</li>
