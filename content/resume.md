@@ -85,6 +85,7 @@ Ability to work independently and collaborate in team settings for seamless exec
 
             <dd class="clear"></dd>
 
+
             <dt class="hide">Experience</dt>
             <dd class="expand">
                 <h2>National Camera Exchange</h2>
@@ -95,6 +96,7 @@ Ability to work independently and collaborate in team settings for seamless exec
                     <li>Resolve technical issues with camera equipment, guiding customers through repair, replacement, or upgrade decisions</li>
                     <li>Drive sales and customer satisfaction by combining product knowledge with strong communication and service skills</li>
                 </ul>
+
                 <h2>Block Portrait Studios</h2>
                 <h2><span>Associate Photographer/Account Manager | April 2024 - Present</span></h2> <br />
                 <ul>
@@ -103,14 +105,14 @@ Ability to work independently and collaborate in team settings for seamless exec
                     <li>Help with invoicing, ensuring prompt payment collection from clients</li>
                     <li>Detail-oriented and able to handle multiple tasks in a fast-paced environment</li>
                 </ul>
+
                 <h2>Founder - Kathryn Whelan Photography</h2>
-                <h2><span>Self-Employed | 2025 – Present</span></h2>
+                <h2><span>Self-Employed | 2025 – Present</span></h2> <br />
                 <ul>
                     <li>Provide technology support and troubleshooting for individuals and small businesses</li>
                     <li>Assist with website setup, updates, and digital content management</li>
                     <li>Deliver professional photography services for personal and commercial use</li>
-                    <li>Manage client relationships, scheduling, and project delivery</li>
-
+                    <li>Manage client relationships, scheduling, and project delivery</li
                 </ul>
 
                 <h2>Protolabs</h2>
