@@ -90,6 +90,7 @@ Ability to work independently and collaborate in team settings for seamless exec
             <dd class="expand">
                 <h2>National Camera Exchange</h2>
                 <h2><span>Sales Associate | October 2024 - Present</span></h2> <br />
+                <br />
                 <ul>
                     <li>Consult with customers to identify needs and recommend tailored technology solutions</li> 
                     <li>Provide hands-on training through individual sessions and group workshops, improving customer confidence and product adoption</li>
@@ -163,7 +164,7 @@ Ability to work independently and collaborate in team settings for seamless exec
             <dd class="expand">
 
             <h2>Hope For Tomorrow</h2>
-            <h2><span>2025,2026</span></h2>
+            <h2><span>2025,2026</span></h2><br />
             <ul>
                 <li>Mentor an 8th-grade student, providing guidance on personal development and future planning</li>
                 <li>Lead discussions and activities focused on social skills, professional etiquette, and goal setting</li>
@@ -172,14 +173,14 @@ Ability to work independently and collaborate in team settings for seamless exec
             </ul>
 
             <h2>Hack the Gap</h2>
-            <h2><span>Participant 2016, 2017, 2018</span></h2>
+            <h2><span>Participant 2016, 2017, 2018</span></h2> <br />
             <ul>
                 <li>2017 awarded second place of thirteen teams</li>
                 <li>Created a working POC for a mouthguard to track head injuries (2017)</li>
                 <li>Created a medication tracker to help families provide care for their loved ones (2018)</li>
             </ul>
             <h2>Technovation</h2>
-            <h2><span>Mentor 2017</span></h2>
+            <h2><span>Mentor 2017</span></h2> <br />
             <ul>
                 <li>Provided guidance and mentorship to 5th/6th grade girls in an after school technology program</li>
                 <li>Taught computational thinking, app design, and basic programming skills</li>
